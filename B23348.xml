@@ -1,0 +1,715 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The harangues or speeches of several famous mountebanks in town and country</title>
+            <author>D. G.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 79 KB of XML-encoded text transcribed from 39 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23348</idno>
+            <idno type="STC">Wing G7</idno>
+            <idno type="EEBO-CITATION">17150043</idno>
+            <idno type="OCLC">ocm 17150043</idno>
+            <idno type="VID">206298</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23348)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206298)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1616:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The harangues or speeches of several famous mountebanks in town and country</title>
+                  <author>D. G.</author>
+               </titleStmt>
+               <extent>[8], 64 p., [1] leaf of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Warner ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: D.G.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Engraved illustrated frontispiece.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quacks and quackery.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206298:1"/>
+            <pb facs="tcp:206298:2" rendition="simple:additions"/>
+            <p>THE HARANGUES OR SPEECHES Of Several Famous MOUNTEBANKS IN Town and Country.</p>
+            <q>
+               <l>When <hi>Quack</hi> and <hi>Zany</hi> thus are met,</l>
+               <l>The Imperious Emperick ſeem to fret;</l>
+               <l>But looking round, the Crowd to ſee,</l>
+               <l>Are pleas'd to find ſuch Company.</l>
+               <l>At laſt the <hi>Zany</hi> fetch'd the Wallet</l>
+               <l>Of—no Man e'er knew what to call it;</l>
+               <l>Promiſcuous Sweeps of Druggiſt Shops,</l>
+               <l>Made into Plaiſters, Pills, and Slops,</l>
+               <l>All mix'd, as you'll hereafter ſee,</l>
+               <l>Up with Infallibility.</l>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for T. WARNER, at the <hi>Black-Boy,</hi> in <hi>Pater-Noſter-Row.</hi>
+            </p>
+            <p>
+               <hi>Price One Shilling.</hi>
+            </p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:206298:3"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:206298:3"/>
+            <pb facs="tcp:206298:4"/>
+            <pb facs="tcp:206298:4"/>
+            <head>TO <hi>Mr.</hi> William Winter.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE following Sheets are exact<g ref="char:EOLhyphen"/>ly fitted for you, they treating of what you us'd to divert your ſelf with in <hi>Moorefields, Co<g ref="char:EOLhyphen"/>vent-Garden, &amp;c.</hi> And as
+<pb facs="tcp:206298:5"/>it has afforded you ſome Laughter to ſee the ga<g ref="char:EOLhyphen"/>ping Crowd be gull'd by the enchanting Tongues of <hi>Quack</hi> and <hi>Zany,</hi> who would unlock their Ears, and ſteal a Paſſage, by a magick Pill, into their Pockets, and ſo ſend them away with a ſmall Apothecary's Shop, either to kill them<g ref="char:EOLhyphen"/>ſelves or their Neighbours: So I hope they will revive your former Mirth in the reading them.</p>
+            <p>As ſoon as his infallible Jewels are diſpos'd of, he
+<pb facs="tcp:206298:5"/>preſents you with his Jack Pudding, who mounts his hempen Fortune, flying like a Bird in the Air; and when he has fool'd it about half an Hour, he promiſes his mobbiſh Spectators more Diverſion the next Viſit, honours them with a gracious Nod, and comes down: And this the Noble <hi>Doctor</hi> gives them, and his infallible Packet, at ſo ſmall a Price as Sixpence.</p>
+            <p>So dear Friend, if by preſenting you with their
+<pb facs="tcp:206298:6"/>Speeches, I may adminiſ<g ref="char:EOLhyphen"/>ter a Pill to purge Melan<g ref="char:EOLhyphen"/>choly, and divert your Leiſure Hours, I ſhall have gain'd my End; and am proud of entertaining one for whom I have ſo great an Eſteem.</p>
+            <closer>
+               <signed>I am, <hi>Dear Friend, Yours,</hi> D. G.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:206298:6"/>
+            <head>CONTENTS.</head>
+            <list>
+               <item>
+                  <hi>
+                     <seg rend="decorInit">T</seg>HE Quack. By</hi> Thomas Rands. Page 1</item>
+               <item>
+                  <hi>The High</hi> German <hi>Doctor and the</hi> Engliſh <hi>Fool,</hi> Page 8</item>
+               <item>
+                  <hi>The Infallible Mountebank, or Quack Doctor,</hi> Page 11</item>
+               <item>Pharmacopola Circumforaneus: <hi>Or, the Horſe Doctor's Harangue to the credulous Mob,</hi> Page 13</item>
+               <item>
+                  <hi>The Harangue, or Quack Speech of</hi> Tom Jones <hi>at</hi> York, Page 19</item>
+               <item>Alexander Bendo<hi>'s Quack Speech,</hi> Page 23</item>
+               <pb facs="tcp:206298:7"/>
+               <item>Joe Haines <hi>the Comedian's Quack Speech,</hi> Page 35</item>
+               <item>Robert Wilmore<hi>'s Harangue,</hi> Page 44</item>
+               <item>Lopus<hi>'s Harangue at</hi> Madrid, Page 48</item>
+               <item>
+                  <hi>The Harangue of the Famous</hi> Scoto <hi>of</hi> Mantuano, Page 55</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="speeches">
+            <pb facs="tcp:206298:7"/>
+            <head>THE HARANGUES Of ſeveral Famous Quack Doctors, <hi>&amp;c.</hi>
+            </head>
+            <div type="speech">
+               <head>The <hi>QUACK</hi> by <hi>Thomas Rands.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">M</seg>Y Name is Don <hi>Paraſelſus de Curiandi;</hi> I live at the Sign of the <hi>Peſtle</hi> and <hi>Mor<g ref="char:EOLhyphen"/>ter</hi> in <hi>Gliſter-Pipe-Lane,</hi> near <hi>Bolus-Alley;</hi> my Buſineſs, in this famous Nation, is to let my Fellow Chriſtians know the ex<g ref="char:EOLhyphen"/>cellent Qualifications of my Medicines,
+<pb n="2" facs="tcp:206298:8"/>which I ſell to the Rich, but give away <hi>gratis</hi> to the Poor.</p>
+               <p>
+                  <hi>Imprimis,</hi> Is there any old Women a<g ref="char:EOLhyphen"/>mongſt you, who are troubled with the <hi>Pimple-Pamplins,</hi> whoſe Skin is too ſhort for their Bodies, that they cannot Sleep for Farting: See, here is my <hi>Antipampha<g ref="char:EOLhyphen"/>ſtick Powder,</hi> or my <hi>Sovereign Carminick,</hi> which diſcharges <hi>Ventiſerous Humours,</hi> of what kind ſoever, and will reduce you to Soundneſs of Body in the Twinkling of a <hi>Hobby-Horſe.</hi>
+               </p>
+               <p>Then ſee, here is my <hi>Balſamum Stobule Swordum,</hi> or an Ointment that's good a<g ref="char:EOLhyphen"/>gainſt all Cuts, green or canker'd Wounds. Now, ſuppoſe any honeſt Man amongſt you has Hurt or Cut himſelf with either <hi>Sword, Gun,</hi> or <hi>Musket, Spit, Jack,</hi> or <hi>Grid-Iron, Glaſs-Bottle,</hi> or <hi>Pint-Pot,</hi> by the Help and Application of this my Cele<g ref="char:EOLhyphen"/>brated <hi>Balſam,</hi> they are immediately cur'd, without giving themſelves the Trouble of ſending for an illiterate Surgeon, who will ſooner cleanſe their Pockets of its Money, than the Wounds of its Infection,</p>
+               <p>Then, here is my <hi>Unguentum Cataphon,</hi> or, an Ointment that's good againſt all <hi>Strains, Sprains,</hi> or <hi>Bruiſes.</hi> Now, ſuppoſe any honeſt Farmer amongſt you has ſtrain'd or ſprain'd his <hi>Legs, Arms,</hi> or
+<pb n="3" facs="tcp:206298:8"/>
+                  <hi>Ancles,</hi> by over lifting himſelf at a <hi>Gate-Poſt,</hi> or <hi>Barn-Door, Dung-Pot,</hi> or <hi>Chart Wheel,</hi> or has got a Fall from a <hi>Hay-Rick,</hi> or a <hi>Barley-Mow;</hi> by the Application of this my <hi>Medicating Unguent,</hi> being proper<g ref="char:EOLhyphen"/>ly us'd by Friction, and by the Hand of a Maid of Fifteen, you need not doubt a Cure, my Life to an <hi>Apple-Pye.</hi>
+               </p>
+               <p>Then, Gentlemen, ſee here is my <hi>Pu<g ref="char:EOLhyphen"/>rando</hi>'s <hi>Tankapon Tolos,</hi> that is to ſay, in the <hi>Arabian</hi> Language, <hi>The Wonder-working Pills:</hi> The excellent Quality of which, is hardly known, even to my ſelf: But I can aſſure you, they are good againſt all <hi>Sanguine, Melancholly, Phlegmatick,</hi> or <hi>Cho<g ref="char:EOLhyphen"/>lerick Humours:</hi> They are <hi>Sudorifick, Cathar<g ref="char:EOLhyphen"/>tick, Specifick, Amaradulſick, Abſtergick, Mun<g ref="char:EOLhyphen"/>difick,</hi> and <hi>Apperiatick.</hi>
+               </p>
+               <p>They purge the Brain from all <hi>Craſſick Cloudifying Humours</hi> which obſtruct the Sen<g ref="char:EOLhyphen"/>ſes of all <hi>Superanuated Maids.</hi> They im<g ref="char:EOLhyphen"/>mediately perform an Articulation of <hi>Diſ<g ref="char:EOLhyphen"/>located Junctions.</hi> They make the <hi>Curratick, directick,</hi> and the <hi>Directick indirectick,</hi> in their Lives and Converſations. They cauſe the Old to appear young, the Young handſome, and the Handſome witty.</p>
+               <p>Take Three of theſe Pills in a Morning, <hi>Jejuno Stomacho,</hi> with Two Quarts of <hi>Aqua
+<pb n="4" facs="tcp:206298:9"/>Gruellis,</hi> to force an Operation, by an im<g ref="char:EOLhyphen"/>mediate Evacuation, and you'll poſſeſs a perfect Deliveration for all inordinate Mo<g ref="char:EOLhyphen"/>tions of the Mind, as <hi>Trapidity, Anger, Melancholly, Miſtruſt,</hi> or the like.</p>
+               <p>They immediately diſſipate the Spirit of <hi>Jealouſy</hi> in the Young or Old. Now, ſup<g ref="char:EOLhyphen"/>poſe any Perſon, here preſent, is troubled with this grievous and tormenting Diſtem<g ref="char:EOLhyphen"/>per, and fancies his Wife to be what ſhe is, or what ſhe really may not be, let him take five of theſe Pills, as my printed Pa<g ref="char:EOLhyphen"/>per ſhall give Directions, and attend the Operation; and if he has a juſt Occaſion, it will give him juſt five Stools; if on the contrary, it will have no more Operation upon him than the like Quantity of <hi>Sugar-Candy.</hi>
+               </p>
+               <p>Theſe wonderful Pills ſtrengthen the <hi>Nerves,</hi> cleanſe the <hi>Urinal Paſſages,</hi> and purge the <hi>Stomach</hi> from all Diſtempers got by crude, raw, and undigeſted Meats. In fine, there is no Diſtemper of the Body whatſoever, but what theſe Pills will entire<g ref="char:EOLhyphen"/>ly eradicate, tho' it lies lurking in the Maſs of Blood.</p>
+               <p>I ſhall ſay no more at preſent, only let you know that now is your Time to fur<g ref="char:EOLhyphen"/>niſh yourſelves with my Medicines. The Price of them is ſmall, tho' the Opera<g ref="char:EOLhyphen"/>tion wonderful.</p>
+               <pb n="5" facs="tcp:206298:9"/>
+               <p>I am none of thoſe Fellows that ſet an extravagant Value upon themſelves, meer<g ref="char:EOLhyphen"/>ly becauſe they ride upon <hi>Spotted Horſes,</hi> and expreſs themſelves in ridiculous and unintelligible Terms, to amuſe the Vul<g ref="char:EOLhyphen"/>gar; but I am the Famous Don <hi>Paracelſus,</hi> who, for ſeveral Years, have been known in this famous City; and becauſe I will encourage you to Buy, here is my <hi>Anti<g ref="char:EOLhyphen"/>pamphaſtick Powder,</hi> my <hi>Balſamum Stobule Swordum,</hi> my <hi>Unguentum Cataphen,</hi> together with my <hi>Purandos Tankapon Tolos,</hi> and all for the Price of Six Pence. My Medicines have made themſelves and me Famous throughout <hi>Aſia, Africa, Europe,</hi> and <hi>America.</hi>
+               </p>
+               <p>It was I that cur'd <hi>Preſtor John</hi>'s Jug<g ref="char:EOLhyphen"/>gler's Wife's Waiting-Gentlewoman of a <hi>Fiſtula</hi> in her Elbow, of which ſhe dy'd.</p>
+               <p>It was I that prevented the Old Woman at <hi>Exeter,</hi> from running Head-long into a <hi>Wine-Cellar.</hi>
+               </p>
+               <p>It was I that cur'd the <hi>Morocco</hi> Embaſſa<g ref="char:EOLhyphen"/>of a <hi>Lapſa Lingua.</hi>
+               </p>
+               <p>It was me, and only me, that cured the <hi>French</hi> Dancing-Man, at <hi>Amſterdam,</hi> of the <hi>Conſumption</hi> in his Pockets.</p>
+               <p>I am as well known in the <hi>Terra Incog<g ref="char:EOLhyphen"/>nita,</hi> as in any Part of <hi>Europe,</hi> where I perform'd an excellent Cure upon Captain <hi>Nonſuch,</hi> Commander of the <hi>Nonnomen Gal<g ref="char:EOLhyphen"/>ley,</hi>
+                  <pb n="6" facs="tcp:206298:10"/>who had a <hi>Cannon-Ball</hi> lodg'd in his Little-Finger; likewiſe the <hi>Carpenter</hi> of the ſame Ship, who had ſwollow'd a <hi>Hand<g ref="char:EOLhyphen"/>ſpike.</hi>
+               </p>
+               <p>I reſided for ſeveral Years in the great City of <hi>Moſcow;</hi> where, by my internal Medicines, and by my external and ma<g ref="char:EOLhyphen"/>nual Operations, I became more Famous among them, than ever the Learned <hi>Talico<g ref="char:EOLhyphen"/>tius</hi> was among the Inhabitants of the De<g ref="char:EOLhyphen"/>ſerts of <hi>Arabia;</hi> for which Reaſons the Learned Univerſity of that City was pleas'd to beſtow this Diſtich in Favour of me.</p>
+               <q>
+                  <l>
+                     <hi>Tantagores thetow, Phyloſophia grandila</hi> Moſcow,</l>
+                  <l>
+                     <hi>Stanſtephon Phyſica, Muſica, Artibus Kill<g ref="char:EOLhyphen"/>cow.</hi>
+                  </l>
+               </q>
+               <p>Before I conclude my Diſcourſe, I muſt let you know, that I underſtand, and can read the Language of the <hi>Stars,</hi> and that I reſolve all Manner of Lawful Queſtions, and am profound in <hi>Phyſiognomy</hi> and <hi>Pal<g ref="char:EOLhyphen"/>miſtry,</hi> and that I am commenc'd Maſter of the <hi>Mathematicks, Geometry, Trigonometry, Algebra, Rhetorick, Logick,</hi> and <hi>Plain-Sail<g ref="char:EOLhyphen"/>ing.</hi>
+               </p>
+               <pb n="7" facs="tcp:206298:10"/>
+               <p>Gentlemen, and Fellow Chriſtians, my Hours are from Six 'till Seven, from Seven 'till Eleven, and from Eleven all Day.</p>
+               <lg>
+                  <head>I.</head>
+                  <l>
+                     <hi>Here Men of great Senſe,</hi>
+                  </l>
+                  <l>
+                     <hi>At a little Expence,</hi>
+                  </l>
+                  <l>
+                     <hi>May furniſh themſelves with a Packet:</hi>
+                  </l>
+                  <l>
+                     <hi>O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> if any one's poor,</hi>
+                  </l>
+                  <l>
+                     <hi>That has been with a Whore,</hi>
+                  </l>
+                  <l>
+                     <hi>For Six-Pence he need not to lack it.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>II.</head>
+                  <l>
+                     <hi>Though Money be ſcant,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet Phyſick you'll want,</hi>
+                  </l>
+                  <l>
+                     <hi>If ever you come into Danger:</hi>
+                  </l>
+                  <l>
+                     <hi>Then</hi> Beaus <hi>come, and Buy it,</hi>
+                  </l>
+                  <l>
+                     <hi>Prove, Judge, and Try it,</hi>
+                  </l>
+                  <l>
+                     <hi>Or privately come to my Chamber.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="speech">
+               <pb n="8" facs="tcp:206298:11"/>
+               <head>The High <hi>German DOCTOR</hi> and the <hi>Engliſh</hi> FOOL.</head>
+               <opener>
+                  <salute>Gentlemen,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">T</seg>HO' I am an <hi>Engliſh</hi> Fool, yet, my Maſter has the Honour to be a <hi>High German</hi> Phyſician; who, in his Travels round the Uni<g ref="char:EOLhyphen"/>verſe, has cur'd twelve Foreign Miniſters of State of thoſe Twin Plagues, Bribery and Infidelity; Six Kings of a Tyranical Fevers; the whole Conclave of Cardi<g ref="char:EOLhyphen"/>nals of Pride, Lazineſs, and Hypocriſy; and the preſent Pope of the Antichriſtian Evil.</p>
+               <p>He was alſo three Years Oculiſt to the <hi>German</hi> Spread Eagle, and ſeven Years Operator for the Teeth to the King of <hi>Spain</hi>'s white Elephants: He is not only Learned by his long Studies, but Reve<g ref="char:EOLhyphen"/>rend, as you may ſee by his Beard; and Wife, as you may judge by his Silence: He has made himſelf, by his long Travels, an abſolute Maſter of all the Tongues in
+<pb n="9" facs="tcp:206298:11"/>the whole World, (except the Language of this Kingdom,) and at theſe Years has put himſelf into his <hi>Engliſh</hi> A, b, c, in order to make himſelf an univerſal Scho<g ref="char:EOLhyphen"/>lar.</p>
+               <p>Amongſt the many excellent Medica<g ref="char:EOLhyphen"/>ments contain'd in his little Health-preſer<g ref="char:EOLhyphen"/>ving Packet, the firſt Thing that he preſents you with, is this minute <hi>Panpharmacon,</hi> which he calls, his <hi>Pillula infalibilis,</hi> or his infallible Pill; tho' 'tis ſo ſmall in Bulk, that it is ſcarce diſcernable without a Mi<g ref="char:EOLhyphen"/>croſcope, yet, it is ſo mighty in its Ope<g ref="char:EOLhyphen"/>ration, that it will raiſe the weakeſt Pati<g ref="char:EOLhyphen"/>ent out of his ſick Bed, and make him ſtrong enough, in two Minutes, to encoun<g ref="char:EOLhyphen"/>ter Conſcience, Death, and the Devil.</p>
+               <p>In the next Place, he communicates to your View his moſt excellent umbellical <hi>Sticking Plaiſter;</hi> which, if apply'd by the Wife, to the Pit of her Husband's Stomach, diſperſes all manner of jealous Heart<g ref="char:EOLhyphen"/>burnings, prevents the many violent Evils that daily ariſe, from that predominant Monarchical Diſtemper, ſuch as, Grumb<g ref="char:EOLhyphen"/>ling in the Gizard, Murder, Impriſon<g ref="char:EOLhyphen"/>ment, and the like; theſe, with all its evil Concomitants, it diſperſes in a Mo<g ref="char:EOLhyphen"/>ment, and ſo ſtrengthens his Appetite towards Family Duty, that he will be
+<pb n="10" facs="tcp:206298:12"/>able to Love wonderfully, and beget a miraculous Progeny.</p>
+               <p>Here is, likewiſe, a Pot of <hi>Mollifying Ointment,</hi> for the ſuppling and ſtretching of narrow and hide-bound Conſciences, extraordinary uſeful for all faſhionable Zealots, who are deſirous of making their Religion ſubſervant to their Intereſt; let them but outwardly apply this Balſam every <hi>Saturday</hi> Night, and by <hi>Sunday</hi> Morn<g ref="char:EOLhyphen"/>ing, they will find themſelves ſuch pre<g ref="char:EOLhyphen"/>varicating <hi>Chriſtians,</hi> that they may go to <hi>Church</hi> in the Morning, and to <hi>Meeting</hi> in in the Afternoon, and return Home as de<g ref="char:EOLhyphen"/>vout Hypocrites as if they had gone to neither.</p>
+               <p>
+                  <hi>Laſtly,</hi> To Crown the whole Number of his admirable Secrets, here is that rich and excellent Preſervative, as well, as Antidote, his <hi>Orvietano:</hi> Take a ſmall Doſe of this next your Heart in a Morning, and you may venture any Time of the Day after into the moſt diſaffected Coffee-Houſe in <hi>London,</hi> without the Danger of being poiſon'd with Rebellious Principles: It expels all <hi>Low Country Schiſm</hi> by a Belch; carries off all <hi>Diſloyalty</hi> in a Fart; and is the beſt Reſtorative to ſtrengthen weak Faith, and decay'd Allegiance, that ever was yet diſcover'd ſince the Fall of <hi>Adam.</hi>
+               </p>
+               <pb n="11" facs="tcp:206298:12"/>
+               <p>And all theſe Medicines, contain'd in this little Packet, the Doctor, through his Bounty to the Publick, is willing to let you have for the ſmall Value of Six-Pence.</p>
+            </div>
+            <div type="speech">
+               <head>The Infallible MOUNTABANK, or, QUACK DOCTOR.</head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">S</seg>EE! Sirs, ſee here!</l>
+                  <l>A Doctor rare,</l>
+                  <l>Who Travels much at Home!</l>
+                  <l>Here, take my Bills,</l>
+                  <l>I cure all Ills,</l>
+                  <l>Paſt, preſent, and to come;</l>
+                  <l>The Cramp, the Stich,</l>
+                  <l>The Squirt, the Itch,</l>
+                  <l>The Gout, the Stone, the Pox;</l>
+                  <l>The Mulligrubs,</l>
+                  <l>The Bonny Scrubs,</l>
+                  <l>And all <hi>Pandora</hi>'s Box.</l>
+                  <l>Thouſands I've diſſected,</l>
+                  <l>Thouſands new erected,</l>
+                  <l>And ſuch Cures effected,</l>
+                  <l>As none e're can tell.</l>
+                  <pb n="12" facs="tcp:206298:13"/>
+                  <l>Let the Palſie ſhake ye,</l>
+                  <l>Let the Chollick rack ye,</l>
+                  <l>Let the Crinkums break ye,</l>
+                  <l>Let the Murrain take ye;</l>
+                  <l>Take this, and you are well.</l>
+                  <l>Come Wits, ſo keen,</l>
+                  <l>Devour'd with Spleen,</l>
+                  <l>Come <hi>Beaus</hi> who ſprain'd your Backs;</l>
+                  <l>Great Belly'd Maids,</l>
+                  <l>Old founder'd Jades,</l>
+                  <l>And peper'd Vizard Cracks</l>
+                  <l>I ſoon remove</l>
+                  <l>The Pains of Love,</l>
+                  <l>And cure the Love-ſick Maid;</l>
+                  <l>The Hot, the Cold,</l>
+                  <l>The Young, the Old,</l>
+                  <l>The Living, and the Dead;</l>
+                  <l>I clear the Laſs,</l>
+                  <l>With wainſcot Face,</l>
+                  <l>And from Pimginets free,</l>
+                  <l>Plum Ladies red,</l>
+                  <l>Like <hi>Sarazan</hi>'s Head,</l>
+                  <l>With toaping <hi>Rattafia;</hi>
+                  </l>
+                  <l>This with a Jirk,</l>
+                  <l>Will do your Work,</l>
+                  <l>And ſcour you o're, and o're:</l>
+                  <l>Read, Judge, and Try,</l>
+                  <l>And if you Die,</l>
+                  <l>Never believe me more.</l>
+               </lg>
+            </div>
+            <div type="speech">
+               <pb n="13" facs="tcp:206298:13"/>
+               <head>Pharmacopola Circumforaneus; <hi>or, The HORSE DOCTOR's Har<g ref="char:EOLhyphen"/>angue to the Credulous Mob.</hi>
+               </head>
+               <opener>
+                  <salute>Gentlemen,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg> 
+                  <hi>Waltho Van Claturbank,</hi> High <hi>Ger<g ref="char:EOLhyphen"/>man</hi> Doctor, Chymiſt, and Den<g ref="char:EOLhyphen"/>tifricator, Native of <hi>Arabia, De<g ref="char:EOLhyphen"/>ſerta,</hi> Citizen and Burgomaſter of the City of <hi>Brandipolis,</hi> Seventh Son of the Seventh Son, Unborn Doctor, of above 60 Years Experience, having ſtudied over <hi>Galen, Hypocrates, Albumazar,</hi> and <hi>Para<g ref="char:EOLhyphen"/>celſus,</hi> am now become the <hi>Aeſculapius</hi> of this Age. Having been educated at Twelve Univerſities, and travelled through Fifty two Kingdoms, and been Counſellor to the Counſellors of ſeveral Monarchs, Natural Son of the Wonder-working Chymical Doctor, Signior <hi>Haneſio,</hi> lately arrived from the fartheſt Parts of <hi>Utopia,</hi> famous throughout <hi>Aſia, Africa, Europe,</hi> and <hi>Ame<g ref="char:EOLhyphen"/>rica,</hi> from the Sun's Oriental Exaltation to
+<pb n="14" facs="tcp:206298:14"/>his Occidental Declination: Out of meer Pitty to my own dear Self, and languiſhing Mortals, have by the earneſt Prayers and and Intreaties of ſeveral Lords, Earls, Dukes, and Honourable Perſonages, been at laſt prevail'd upon to oblige the World with this Notice;</p>
+               <p>That all Perſons, Young and Old, Blind or Lame, Deaf or Dumb, Curable or In<g ref="char:EOLhyphen"/>curable, may know where to repair for Cure, in all Cephalalgia's, Paralitick, Paraxyſms, Palpitations of the Pericar<g ref="char:EOLhyphen"/>dium, Empyemas, Syncopes, and Naſi<g ref="char:EOLhyphen"/>eties, ariſing either from a Plethory, or a Cacochymy, Vertiginous Vapours, Hydiocephalus Diſſenteries, Odontalgick or Podagrical Inflammations, Iliack Paſ<g ref="char:EOLhyphen"/>ſions, Icterical Effuſions, Exanthemata, the Hen-Pox, the Hog-Pox, the Whores Pox, and the Small Pox; the Aſcites, Tympanites, Anaſarca, and the entire Le<g ref="char:EOLhyphen"/>gion of Lethiferous Diſtempers.</p>
+               <p>
+                  <hi>Imprimis,</hi> Gentlemen, I have a never-failing Stiptick, coroborating, odoriferous, anodinous, balſamick Balſam of Balſams, made of dead Men's Fat, Roſin, and Gooſe-Greaſe, which infallibly reſtores loſt Maidenheads, raiſes demoiſh'd Noſes, and by its abſterſive coſmetick Quality, pre<g ref="char:EOLhyphen"/>ſerves ſuperannuated Bawds from Wrin<g ref="char:EOLhyphen"/>kles.</p>
+               <pb n="15" facs="tcp:206298:14"/>
+               <p>
+                  <hi>Item,</hi> I have the true Carthramophra of the Triple Kingdom, my never-failing Heliogenes, being the Tincture of the Sun, deriving Vigour, Influence, and Dominion from the ſame Light; it cauſes all Com<g ref="char:EOLhyphen"/>plexions to Laugh or Smile, at the very Time of taking it; is ſeven Years in pre<g ref="char:EOLhyphen"/>paring, and being compleated, <hi>ſecundum Artem,</hi> by Fermentation, Cohobation, Cal<g ref="char:EOLhyphen"/>cination, Sublimation, Fixation, Philtra<g ref="char:EOLhyphen"/>tion, Circulation, and Quidlibitification, in <hi>Balneo Mariae,</hi> Crucible and Fixatory, the Athanor, Cucurbita, and Reverberatory, is the only Sovereign Medicine in the World.</p>
+               <p>This is Natures Palladium, Health's Ma<g ref="char:EOLhyphen"/>gazine; it works ſeven manner of Ways, in order as Nature herſelf requires, for it ſcorns to be confin'd to any particular way of Operation; ſo that it effecteth the Cure, either Hypnotically, Hydrotically, Cathar<g ref="char:EOLhyphen"/>tically, Poppiſmatically, Hydrogogically, Pneumatically, or Synechdochically; it mundifies the Hypogaſtrium, wipes off ab<g ref="char:EOLhyphen"/>ſterſively thoſe tenacious conglomerated ſedimental Sordes that adhere to the Oeſo<g ref="char:EOLhyphen"/>phagus and Viſcera; extinguiſhes all ſu<g ref="char:EOLhyphen"/>pernatural Fermentations and Ebulitions; and, in fine, annihilates all Noſotrophical Morbifick Ideas of the whole Corporeal Compages.</p>
+               <pb n="16" facs="tcp:206298:15"/>
+               <p>A Drachm of it is worth a Buſhel of <hi>March</hi> Duſt: For if a Man chance to have his Brains beat out, or his Head chop'd off, two Drops, I ſay, two Drops, Gentlemen, ſeaſonably apply'd, will recal the fleeting Spirits, re-inthrone the depoſed Archeus, cement the Diſcontinuity of the Parts, and in ſix Minutes reſtore the lifeleſs Trunk to all its preſtine Functions, Vital, Natural, and Animal; ſo that this, believe me, Gentlemen, is the only Sovereign Reme<g ref="char:EOLhyphen"/>dy in the World.</p>
+               <p>I have the chiefeſt Antepudenda Gragran Specifick in <hi>Venus</hi> Regalia, which infalli<g ref="char:EOLhyphen"/>bly cures the <hi>French</hi> Pox, with all its Train of Gonorrheas, Bubo's and Shankers, Car<g ref="char:EOLhyphen"/>noſities, Phymoſis, Paraphymoſis, Chriſtal<g ref="char:EOLhyphen"/>line Priapiſmus, Caudalomata, and Raga<g ref="char:EOLhyphen"/>des, without Baths and Stoves, and that with as much Pleaſure as the ſame was con<g ref="char:EOLhyphen"/>tracted; ſo that 'tis worth any Perſon's while to get the Diſtemper once a Fort<g ref="char:EOLhyphen"/>night, if it be to be had for Love or Mo<g ref="char:EOLhyphen"/>ney, to enjoy the Benefit of ſo diverting a Remedy.</p>
+               <p>I have the Panchymagogon of <hi>Hermes-Triſmegiſtus,</hi> an incomparable Spagyrick Tincture of the Moon's Horns, which is the only infallible Antidote againſt the Contagion of Cuckoldom.</p>
+               <pb n="17" facs="tcp:206298:15"/>
+               <p>Beſides, my <hi>Vermifugus Pulvis,</hi> or Anti<g ref="char:EOLhyphen"/>vermatical Worm-conquering Powder, ſo famous for deſtroying all Sorts of 'em, incident to human Bodies, breaking their complicated Knots in the Duodenum, and diſſolving the Phlegmatick Crudities that produce theſe Anthropohagous Ver<g ref="char:EOLhyphen"/>mine: It hath brought away Worms by Urine, as long as the May-Pole in the Strand, when it flouriſh'd in its primative Prolixity, tho' I confeſs not altogether ſo thick.</p>
+               <p>Look ye, Gentlemen, I have it under the Hands and Seals of all the greateſt Sul<g ref="char:EOLhyphen"/>tans, Sophys, Baſhas, Viziers, Chams, Se<g ref="char:EOLhyphen"/>raſquiers, and Mufties, <hi>&amp;c.</hi> in Chriſten<g ref="char:EOLhyphen"/>dom, to Verificate the Truth of my Ope<g ref="char:EOLhyphen"/>rations, that I have actually performed ſuch Cures, as are really beyond human Abilities.</p>
+               <p>I cur'd <hi>Preſtor John</hi>'s Godmother, to the great Admiration of all the Court, of a ſtupendious Dolour about the <hi>Os Sacrum,</hi> ſo that the good old Lady really fear'd the Perdition of her Huckle-Bone; I did it by fomenting her Poſteriors, with a Mummy of Nature, <hi>alias,</hi> called <hi>Pilgrim's Salve,</hi> mix'd up with the Spirit of Mugwort, tartara<g ref="char:EOLhyphen"/>graphated thorough an Alembick of Chri<g ref="char:EOLhyphen"/>ſtalline Transfluency.</p>
+               <pb n="18" facs="tcp:206298:16"/>
+               <p>Thence was I ſent for to Sultan <hi>Gilgon</hi> Deſpote of <hi>Boſnia,</hi> who was violently af<g ref="char:EOLhyphen"/>flicted with the Spaſmus: He came to meet me 300 Leagues in a Go-Cart: But I gave him ſo ſpeedy on Acquittance of his Dolour, that the next Night I cauſed him to Dance a <hi>Saraband</hi> with Flipflaps and Somerſets.</p>
+               <p>I reſtor'd Virility, and the Comforts of Generation, to above 150 Eunuchs in the Grand Senior's Seraglio; and by a Pair of Prolifick Pills, lately cauſed a <hi>Vintner</hi>'s Widow, who had been Barren all her Days, to conceive of a Man Child, in the twelfth Luſter of her Age, without the Help of her Husband.</p>
+               <p>I cured likewiſe the Dutcheſs of <hi>Boro<g ref="char:EOLhyphen"/>molpho</hi> of a Cramp in her Tongue; and the Count <hi>de Redomontado Corrept,</hi> with an Illiack Paſſion, contracted by eating but<g ref="char:EOLhyphen"/>ter'd Parſhips.</p>
+               <p>I alſo cured an Alderman of <hi>Grand Cai<g ref="char:EOLhyphen"/>ro,</hi> who had been ſick ſeven Years of the Plague in 46 Minutes: And by the like Empyrical Remedies I lately cured Duke Philorix of a Dropſy, of which he died.</p>
+               <p>
+                  <hi>Venienti occurrite Morbo,</hi> Down with your Duſt; <hi>Principiis obſta,</hi> No Cure, no Money; <hi>Quar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nda Pecunia primum,</hi> Be not ſick too late.</p>
+               <pb n="19" facs="tcp:206298:16"/>
+               <p>
+                  <hi>You that are willing to render yourſelves Im<g ref="char:EOLhyphen"/>mortal, buy this Packet; or elſe repair to the Sign of the</hi> Prancers, <hi>in</hi> Vico vulgo dicto, Rattlecliffero, <hi>ſomething</hi> South-Eaſt <hi>of the</hi> Teplum Danicum, <hi>in the Square of</hi> Profound-Cloſe, <hi>not far from</hi> Titter-Tatter Fair, <hi>and you may ſee, hear, and return Reinfecta.</hi>
+               </p>
+            </div>
+            <div type="speech">
+               <head>The <hi>Harangue,</hi> or <hi>Quack Speech</hi> of <hi>T. JONES</hi> at <hi>York.</hi>
+               </head>
+               <opener>
+                  <salute>Gentlemen and Ladies,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">Y</seg>OU that have a mind to preſerve your own and your Families Health, may here, at the Ex<g ref="char:EOLhyphen"/>pence of a Two-Penny Piece, fur<g ref="char:EOLhyphen"/>niſh yourſelves with a Packet, which con<g ref="char:EOLhyphen"/>tains ſeveral Things of great Uſe, and wonderful Operation in human Bodies, againſt all Diſtempers whatſoever,</p>
+               <p>
+                  <hi>Gentlemen,</hi> Becauſe I preſent my ſelf among you, I would not have you to think<g ref="char:punc">▪</g> I am any Upſtart Gliſter-Pipe, Bum-Peeping Apothecary: No, <hi>Gentlemen,</hi> I
+<pb n="20" facs="tcp:206298:17"/>am no ſuch Perſon, I am a regular Phyſi<g ref="char:EOLhyphen"/>cian; and have travell'd moſt Kingdoms in the World, purely to do my Country good. I am not a Perſon that takes delight, as a great many do, to fill your Ears with hard Words, in telling you the Nature of <hi>Turpet Mineral, Mercuri Dulcis, Balſamum Ca<g ref="char:EOLhyphen"/>piviet, Aſtringents, Laxations, Hardboundations, Circulations. Vibrations, Salivations, Excoria<g ref="char:EOLhyphen"/>tions, Scaldations, Urinations.</hi> Theſe Quacks, may fi ly be called, <hi>Solimites,</hi> becauſe they preſcribe only one ſort of Phyſick for all Diſtempers, that is, a Vomit.</p>
+               <p>If a Man has bruis'd his Elbow; <hi>Take a Vomit,</hi> ſays the Doctor. If you have <hi>any Corns; Take a Vomit.</hi> If he has torn his Coat; <hi>Take a Vomit.</hi> For the <hi>Jaundice, Fe<g ref="char:EOLhyphen"/>vers, Flux, Gripes, Gout, Stone, Pox</hi> nay, even the Diſtempers that only my Friend, the famous Doctor <hi>Tuff,</hi> whom you all know, as the <hi>Hocognicles, Marthambles,</hi> the <hi>Mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n-Paul,</hi> and the <hi>Strong-Fives; A Vomit; Tantum. Gentlemen,</hi> Theſe Impoſtors value Killing of a Man, no more, than I value drawing an old Stump of a Tooth, which has long troubled any of you; ſo that, I ſay, They are a pack of <hi>Tag-Rag, Aſſi<g ref="char:EOLhyphen"/>fatida, Gliſter-Pipe Doctors.</hi>
+               </p>
+               <pb n="21" facs="tcp:206298:17"/>
+               <p>Now, <hi>Gentlemen,</hi> having given you a ſhort Account of this ſpurious Race; I ſhall preſent you with my Cordial Pills, being the Tincture of the Sun, having Domini<g ref="char:EOLhyphen"/>on from the ſame Light, giving Relief and Comfort to all Mankind: They cauſe all Complexions to Laugh or Smile, in the the very taking them, they preſently cure all Dizzineſs, Swimmings, Dulneſs in the Head, and Scurvy.</p>
+               <p>In the next Place, I recommend to you my incomparable Balſam, which heals all Sores, Cuts, Ulcers, new and old.</p>
+               <p>'Tis good for Burns, Scalds, Swellings, Bruiſes, Strains, Aches, Weakneſs in the Joints and Limbs, <hi>&amp;c.</hi> it cures the King's Evil, ſore Breaſts, and ſcald Heads; and it is taken inwardly for a Cough, Con<g ref="char:EOLhyphen"/>ſumption, ſhort Breath, Weakneſs of the Back, or any inward Hurt.</p>
+               <p>The next unparallel'd Medicine, con<g ref="char:EOLhyphen"/>tain'd in this my Packet, is an admirable Electuary, celebrated throughout all <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland, France,</hi> and <hi>Ireland,</hi> Domi<g ref="char:EOLhyphen"/>nion of <hi>Wales,</hi> and Town of <hi>Berwick</hi> upon <hi>Tweed.</hi> It cures all curable Diſeaſes, by very eaſy and gentle purging; it cauſes an Appetite, helps all Diſtempers in the Eyes, Face, ſwelled Lips; and opens the Stoppage of the Liver and Spleen, <hi>&amp;c.</hi>
+               </p>
+               <pb n="22" facs="tcp:206298:18"/>
+               <p>The next I preſent you with, is my Specifick, which certainly cures all <hi>Agues</hi> in a Minuet.</p>
+               <p>The next is my Red Plaiſter, which ra<g ref="char:EOLhyphen"/>dically cures the moſt inveterate Rheuma<g ref="char:EOLhyphen"/>tiſm and Gout in a few Day's Time.</p>
+               <p>The laſt, and moſt uſeful Medicine pre<g ref="char:EOLhyphen"/>pared throughout the whole World, is this, my <hi>Pulvis Catharticus:</hi> Its Virtues are ſuch, it will, equally with the Unicorn's Horn, expel the rankeſt Poiſon; 'tis a perfect, ſafe, and ſpeedy Cure, for all ve<g ref="char:EOLhyphen"/>nerial Maladies, of what Degree ſoever, and fortifies the Heart againſt all Faint<g ref="char:EOLhyphen"/>ing.</p>
+               <p>I do aſſure you, Country Folk, theſe Medicines are as good as any Phyſician can make, or Patient take; their Virtues are too well known, to ſay any more; ſo I ſhall leave you to experience them. And ſo I wiſh you Health, and Happineſs.</p>
+               <p>
+                  <hi>You may come to my Lodgings, at the</hi> Barber's Pole Stone-Gate: <hi>At Home, from Seven to Eleven.</hi>
+               </p>
+            </div>
+            <div type="speech">
+               <pb n="23" facs="tcp:206298:18"/>
+               <head>To all Gentlemen and Ladies, and Others, whether of City, Town, or Country, <hi>ALEXANDER BENDO</hi> wiſheth all Health and Proſpe<g ref="char:EOLhyphen"/>rity.</head>
+               <p>
+                  <seg rend="decorInit">W</seg>Hereas this famous Metropo<g ref="char:EOLhyphen"/>lis of <hi>England;</hi> (and were the Endeavours of its worthy In<g ref="char:EOLhyphen"/>habitants equal to their Pow<g ref="char:EOLhyphen"/>er, Merit, and Virtue, I ſhould not ſtick to denounce it, in a ſhort time, the Metropolis of the whole World:) Whereas, I ſay, this City, (as moſt great Ones are) has ever been infeſted with a numerous Company of ſuch, whoſe arrogant Confi<g ref="char:EOLhyphen"/>dence, back'd with their Ignorance, has enabled them to impoſe upon the People, either by premeditated Cheats, or, at beſt, the palpable, dull, and empty Miſtakes of their ſelf-deluded Imagination in Phy<g ref="char:EOLhyphen"/>ſick, Chymical and Galenick, in Aſtrolo<g ref="char:EOLhyphen"/>gy, Phyſiognomy, Palmeſtry, Mathema<g ref="char:EOLhyphen"/>ticks,
+<pb n="24" facs="tcp:206298:19"/>Alchymy, and even in Government itſelf: The laſt of which, I will not pro<g ref="char:EOLhyphen"/>poſe to diſcourſe of, or meddle at all in, ſince it no Way belongs to my Trade or Vocation, as the reſt do; which (Thanks to my God) I find much more ſafe, I think equally honeſt, and therefore more profitable.</p>
+               <p>But as to all the former, they have been ſo erroneouſly practis'd by many unlearn'd Wretches, whom Poverty and Needineſs, for the moſt Part, (if not the reſtleſs Itch of Deceiving,) has forc'd to ſtraggle and wander in unknown Paths, that even the Profeſſions themſelves, tho' originally the Products of the moſt learned and wiſe Mens labourious Studies and Experience, and by them left a wealthy and glorious Inheri<g ref="char:EOLhyphen"/>tance for Ages to come, ſeem, by this Baſtard-Race of Quacks and Cheats, to have been run out of all Wiſdom, Learn<g ref="char:EOLhyphen"/>ing, Perſpicuouſneſs, and Truth, with which they were ſo plentifully ſtock'd; and now run into a Repute of meer Miſts, Imagina<g ref="char:EOLhyphen"/>tions, Errors, and Deceits, ſuch as, in the Management of theſe Idle Profeſſors, in<g ref="char:EOLhyphen"/>deed they were.</p>
+               <pb n="25" facs="tcp:206298:19"/>
+               <p>You will therefore, (I hope,) Gentlemen, Ladies, and others, deem it but juſt, that that I, who for ſome Years have with all Faithfulneſs and Aſſiduity courted theſe Arts, and receiv'd ſuch ſignal Favours from them, that they have admitted me to the happy and full Enjoyment of themſelves, and truſted me with their greateſt Secrets, ſhould, with an Earneſtneſs and Concern more than ordinary, take their Parts againſt theſe impudent Fops, whoſe ſaucy imperti<g ref="char:EOLhyphen"/>nent Addreſſes and Pretenſions have brought ſuch a Scandal upon their moſt immaculate Honours and Reputations.</p>
+               <p>Beſides, I hope you will not think I could be ſo impudent, that if I had in<g ref="char:EOLhyphen"/>tended any ſuch foul Play myſelf, I would have given you ſo fair Warning, by my ſevere Obſervations upon others. <hi>Qui al<g ref="char:EOLhyphen"/>terum incuſat Probri, ipſum ſe intueri oportet,</hi> (Plaut.) However, <hi>Gentlemen,</hi> in a World like this, where Virtue is ſo exactly coun<g ref="char:EOLhyphen"/>terfeited, and Hypocriſy ſo generally taken Notice of, that every one (arm'd with Suſpicion) ſtands upon his Guard againſt it, 'twill be very hard, for a Stranger eſpe<g ref="char:EOLhyphen"/>cially, to eſcape Cenſure. All I ſhall ſay for my ſelf on this Score, is this; <hi>If I appear to any one like a Counterfeit, even for the ſake of that, chiefly, ought I to be conſtru'd
+<pb n="26" facs="tcp:206298:20"/>a true Man?</hi> Who is the Counterfeit's Example: His Original, and that which he employs his Induſtry and Pains to imitate and copy. Is it therefore my Fault, if the Cheat, by his Wits and Endeavours, makes himſelf ſo like me, that conſequently I cannot avoid reſembling him? Conſider, pray, the Valiant, and the Coward; the wealthy Merchant, and the Bankrupt; the Politician and the Fool; they are the ſame in many Things, and differ but in <hi>one</hi> alone: The valiant Man holds up holds up his Head, looks confidently round about him, wears a Sword, courts a Lord's Wife, and owns it: So does the Coward. <hi>One</hi> only Point of Honour ex<g ref="char:EOLhyphen"/>cepted, and that's Courage, which, (like falſe Metal, one only Tryal can diſcover) makes the Diſtinction.</p>
+               <p>The Bankrupt walks the <hi>Exchange,</hi> buys Bargains, draws Bills, and accepts them with the Richeſt, whilſt Paper and Credit are current Coin: That which makes the Difference is real Caſh; a great Defect, indeed, and yet but <hi>one,</hi> and that the laſt found out, and ſtill, 'till then, the leaſt perceiv'd.</p>
+               <p>Now for the Politician: He is a grave, deliberating, cloſe, prying Man: Pray are
+<pb n="27" facs="tcp:206298:20"/>there not grave, deliberating, cloſe, pry<g ref="char:EOLhyphen"/>ing Fools.</p>
+               <p>If then, the Difference betwixt all theſe, (tho' infinite in Effect) be ſo nice in all Appearance, will you expect it ſhould be otherwiſe betwixt the falſe Phyſician, A<g ref="char:EOLhyphen"/>ſtrologer, <hi>&amp;c.</hi> and the true? The firſt calls himſelf learned Doctor, ſends forth his Bills, gives Phyſick and Counſel, tells and foretels; the other is bound to do juſt as much: 'Tis only your Experience muſt diſtinguiſh betwixt them; to which I wil<g ref="char:EOLhyphen"/>lingly ſubmit myſelf. I'll only ſay ſome<g ref="char:EOLhyphen"/>thing to the Honour of the Mountebank, in caſe you diſcover me to be one.</p>
+               <p>Reflect a little, what Kind of Creature it is: He is one, then, who is fain to ſup<g ref="char:EOLhyphen"/>ply ſome higher Ability he pretends to, with Craft; he draws great Companies to him by undertaking ſtrange Things, which can never be effected. The Politician, (by his Example no doubt,) finding how the People are taken with ſpecious miraculous Impoſſibilities, plays the ſame Game, proteſts, declares, promiſes I know not what, Things which he is ſure can never be brought about: The People believe, are deluded, and pleas'd; the Expectation of a future Good, which ſhall never befal them, draws their Eyes off a preſent Evil.
+<pb n="28" facs="tcp:206298:21"/>Thus are they kept and eſtabliſh'd in Sub<g ref="char:EOLhyphen"/>jection, Peace, and Obedience; he in Greatneſs, Wealth, and Power. So you ſee the Politician is, and muſt be, a <hi>Moun<g ref="char:EOLhyphen"/>tebank,</hi> in State-Affairs; and the <hi>Mountebank,</hi> no doubt, if he thrives, is an errant <hi>Poli<g ref="char:EOLhyphen"/>tician</hi> in Phyſick. But that I may not prove too tedious, I will proceed faithfully to in<g ref="char:EOLhyphen"/>form you, what are the Things in which I pretend chiefly, at this Time, to ſerve my Country,</p>
+               <p>
+                  <hi>Firſt,</hi> I will (by the Leave of God) per<g ref="char:EOLhyphen"/>fectly cure that <hi>Labes Britannica,</hi> or <hi>Grand Engliſh Diſeaſe,</hi> the <hi>Scurvy;</hi> and that with ſuch Eaſe to my <hi>Patient,</hi> that he ſhall not be ſenſible of the leaſt Inconveniency, whilſt I ſteal his Diſtemper from him. I know there are many, who treat this Diſeaſe with <hi>Mercury, Antimony, Spirits,</hi> and <hi>Salts,</hi> be<g ref="char:EOLhyphen"/>ing dangerous Remedies, in which I ſhall meddle very little, and with great Caution; but by more ſecure, gentle, and leſs fallible Medicines, together with the Obſervation of ſome few Rules in Diet, perfectly cure the <hi>Patient,</hi> having freed him from all the Symptoms, as Looſeneſs of the Teeth, Scor<g ref="char:EOLhyphen"/>butick Spots, Want of Appetite, Pains and La<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tude in the Limbs and Joints, eſpeci<g ref="char:EOLhyphen"/>ally the Legs. And to ſay true, there are few Diſtempers in this Nation that are not,
+<pb n="29" facs="tcp:206298:21"/>or at leaſt proceed not originally from the <hi>Scurvy;</hi> which, were it well rooted out, (as I make no Queſtion to do it from all thoſe who ſhall come into my Hands) there would not be heard of ſo many Gouts, Aches, Dropſies, and Conſumptions; nay, even thoſe thick and ſlimy Humours, which generate Stones in the Kidneys and Blad<g ref="char:EOLhyphen"/>der, are for the moſt Part Off-ſprings of the <hi>Scurvy.</hi> It would prove tedious to ſet down all its malignant Race; but thoſe who addreſs themſelves here, ſhall be ſtill inform'd by me of the Nature of their Di<g ref="char:EOLhyphen"/>ſtempers, and the Grounds I proceed upon to their Cure: So will all reaſonable Peo<g ref="char:EOLhyphen"/>ple be ſatisfy'd, that I treat them with Care, Honeſty, and Underſtanding; for I am not of their Opinion, who endeavour to render their Vocations rather myſterious, than uſeful and ſatisfactory.</p>
+               <p>I will not here make a Catalogue of Diſeaſes and Diſtempers; it behoves a <hi>Phyſician,</hi> I am ſure, to underſtand them all; but if any one come to me, (as I think there are very few, that have eſca<g ref="char:EOLhyphen"/>ped my <hi>Practice</hi>) I ſhall not be aſham'd to own to my <hi>Patient</hi> where I find myſelf to ſeek; and, at leaſt, he ſhall be ſecure with me from having Experiments try'd upon him; a Privilege he can never hope to en<g ref="char:EOLhyphen"/>joy,
+<pb n="30" facs="tcp:206298:22"/>either in the Hands of the grand Doc<g ref="char:EOLhyphen"/>tors of the Court and Town, or in thoſe of the leſſer Quacks and Mountebanks.</p>
+               <p>It is thought fit, that I aſſure you of great Secrecy, as well as Gare in Diſeaſes, where it is requiſite, whether Venereal, or other; as ſome peculiar to Women, the Green-Sickneſs, Weakneſs, Inflammations, or Obſtructions in the Stomach, Reins, Liver, Spleen, <hi>&amp;c.</hi> for I would put no Word in my Bill that bears any unclean Sound; it is enough that I make myſelf underſtood. I have ſeen Phyſicians Bills as bawdy as <hi>Aretine</hi>'s Dialogues, which no Man, that walks warily before God, can approve of; but I cure all Suffocations in thoſe Parts producing Fits of the Mother, Convulſions, nocturnal Inquietudes, and other ſtrange Accidents, not fit to be ſet down here; perſwading young Women very often that their Hearts are like to break for Love, when, God knows, the Diſtemper lies far enough from that Place.</p>
+               <p>I have likewiſe got the Knowledge of a great Secret, to cure Barrenneſs, (pro<g ref="char:EOLhyphen"/>ceeding from any accidental Cauſe, as it often falls out, and no natural Defect; for Nature is eaſily aſſiſted, difficultly reſtor'd, but impoſſible to be made more perfect by
+<pb n="31" facs="tcp:206298:22"/>Man, than God himſelf had firſt created and beſtow'd it,) which I have made uſe of for many Years with great Succeſs, eſpe<g ref="char:EOLhyphen"/>cially this laſt Year, wherein I have cur'd one Woman that had been marry'd twenty Years, and another that had been marry'd one and twenty Years, and two Women that had been three Times marry'd; as I can make appear by the Teſtimonies of ſe<g ref="char:EOLhyphen"/>veral Perſons of <hi>London</hi> and <hi>Weſtminſter,</hi> and other Places thereabouts. The Medicines I uſe, cleanſe and ſtrengthen the Womb, and are all to be taken in the Space of ſe<g ref="char:EOLhyphen"/>ven Days. And becauſe I do not intend to deceive any Perſon, upon Diſcourſe with them, I will tell them whether I am like to do them any Good. My uſual Contract is, to receive one Half of what is agreed upon, when the Party ſhall be quick with Child, the other Half when ſhe is brought to Bed.</p>
+               <p>Cures of this Kind I have done ſignal, and many; for the which, I doubt not, but I have the good Wiſhes and hearty Prayers of many Families, who had elſe pin'd out their Days under the deplorable and re<g ref="char:EOLhyphen"/>proachful Misfortunes of Barren Wombs, leaving plentiful Eſtates and Poſſeſſions to be inherited by Strangers.</p>
+               <pb n="32" facs="tcp:206298:23"/>
+               <p>As to Aſtrological Predictions, Phyſiog<g ref="char:EOLhyphen"/>nomy, Divination by Dreams, and other<g ref="char:EOLhyphen"/>wiſe, (Palmiſtry, I have no Faith in, be<g ref="char:EOLhyphen"/>cauſe there can be no Reaſon alledg'd for it,) my own Experience has convinc'd me more of their conſiderable Effects, and marvel<g ref="char:EOLhyphen"/>lous Operations, chiefly in the Directions of future Proceedings, to the avoiding of Dangers that threaten, and laying hold of Advantages that might offer themſelves; I ſay, my own Practice has convinced me more than all the ſage and wiſe Writings extant of thoſe Matters; for I might ſay this of myſelf, (did it not look like Oſten<g ref="char:EOLhyphen"/>tation,) that I have very ſeldom fail'd in my Predictions, and often been very ſer<g ref="char:EOLhyphen"/>viceable in my Advice. How far I am capable in this Way, I am ſure is not fit to be deliver'd in Print: Thoſe who have no Opinion of the Truth of this Art, will not, I ſuppoſe, come to me about it; ſuch as have, I make no Queſtion of giving them ample Satisfaction.</p>
+               <p>Nor will I be aſham'd to ſet down here my Willingneſs to practice Rare Secrets, (tho' ſomewhat collateral to my Profeſſion) for the Help, Conſervation, and Augmen<g ref="char:EOLhyphen"/>tation of Beauty and Comelineſs; a Thing created at firſt by God, chiefly for the Glory of his own Name, and then for the
+<pb n="33" facs="tcp:206298:23"/>better Eſtabliſhment of mutual Love be<g ref="char:EOLhyphen"/>tween Man and Woman; for when God had beſtow'd on Man the Power of Strength and Wiſdom, and thereby ren<g ref="char:EOLhyphen"/>der'd Woman liable to the Subjection of his abſolute Will, it ſeem'd but requiſite that ſhe ſhould be endued likewiſe, in Re<g ref="char:EOLhyphen"/>compence, with ſome Quality that might beget in him Admiration of Her, and ſo enforce his Tenderneſs and Love.</p>
+               <p>The Knowledge of theſe Secrets, I ga<g ref="char:EOLhyphen"/>ther'd in my Travels Abroad, (where I have ſpent my Time, ever ſince I was fifteen Years old, to this my nine and twentieth Year) in <hi>France</hi> and <hi>Italy.</hi> Thoſe that have travell'd in <hi>Italy,</hi> will tell you to what a Miracle Art does there aſſiſt Nature in the Preſervation of Beauty; how Women of Forty bear the ſame Countenance with thoſe of Fifteen: Ages are no ways diſtinguiſh'd by Faces; whereas here in <hi>England,</hi> look a Horſe in the Mouth, and a Woman in the Face, you preſently know both their Ages to a Year. I will therefore give you ſuch Remedies, that, without deſtroying your Complexion, (as moſt of your Paints and Daubings do,) ſhall render them purely Fair, clearing and preſerving them from all Spots, Freckles, Heats, Pimples, and Marks of the Small-Pox, or any other
+<pb n="34" facs="tcp:206298:24"/>accidental ones, ſo the Face be not ſeam'd or ſcar'd.</p>
+               <p>I will alſo cleanſe and preſerve your Teeth white and round as Pearls, faſten<g ref="char:EOLhyphen"/>ing them that are looſe: Your Gums ſhall be kept entire, as red as Coral; your Lips of the ſame Colour, and ſoft as you could wiſh your lawful Kiſſes.</p>
+               <p>I will likewiſe adminiſter that which ſhall cure the worſt of Breaths, provided the Lungs be not totally periſhed and im<g ref="char:EOLhyphen"/>poſthumated; as alſo certain and infallible Remedies for thoſe whoſe Breaths are yet untainted; ſo that nothing but either a very long Sickneſs, or Old-Age itſelf, ſhall ever be able to ſpoil them.</p>
+               <p>I will beſides (if it be deſir'd) take a<g ref="char:EOLhyphen"/>way from their Fatneſs who have overmuch, and add Fleſh to thoſe that want it, with<g ref="char:EOLhyphen"/>out the leaſt Detriment to their Conſti<g ref="char:EOLhyphen"/>tutions.</p>
+               <p>Now, ſhould <hi>Galen</hi> himſelf look out of his Grave, and tell me theſe were Baubles below the Profeſſion of a Phyſician, I would boldly anſwer him, That I take more Glory in preſerving God's Image, in its unblemiſh'd Beauty, upon one good Face, than I ſhould do in patching up all the decay'd Carcaſſes in the World.</p>
+               <p>They that will do me the Favour to come to me, ſhall be ſure, from Three
+<pb n="35" facs="tcp:206298:24"/>of the Clock in the Afternoon, till Eight at Night, at my Lodgings in <hi>Tower-Street</hi> next Door to the Sign of the <hi>Black Swan</hi> at a Goldſmith's Houſe, to find</p>
+               <closer>
+                  <signed>Their humble Servant, ALEXANDER BENDO.</signed>
+               </closer>
+            </div>
+            <div type="speech">
+               <head>Theſaurum &amp; Talentum ne abſcondas in Agro.</head>
+               <head type="sub">JOSEPH HAINES<hi>'s SPEECH, High-German Doctor and Aſtro<g ref="char:EOLhyphen"/>loger in</hi> Brandipolis.</head>
+               <head type="sub">Hoc juris publici in communem utilitatem publicum fecit.</head>
+               <p>
+                  <seg rend="decorInit">W</seg>HO by the Bleſſing of <hi>Aeſculapius,</hi> on his great Pains, Travels, and nocturnal Lucubrations, has at<g ref="char:EOLhyphen"/>tained to a greater Share of Know<g ref="char:EOLhyphen"/>ledge than any Perſon before him was ever known to do.</p>
+               <pb n="36" facs="tcp:206298:25"/>
+               <p>
+                  <hi>Imprimis,</hi> Gentlemen, I preſent you with my Univerſal Solutive, or <hi>Cathartick Elixir,</hi> which corrects all the Cacochymick and Cachexical Diſeaſes of the Inteſtines; cures all internal and external Diſeaſes, all vertiginous Vapours, Hydrocephalous Giddineſs or Swimming of the Head, E<g ref="char:EOLhyphen"/>pileptick Fits, Flowing of the Gall, Stop<g ref="char:EOLhyphen"/>page of Urine, Ulcers in the Womb and Bladder; with many other Diſtempers, not hitherto diſtinguiſhed by Name.</p>
+               <p>
+                  <hi>Secondly,</hi> My friendly Pill, call'd, <hi>The never-failing Heliogenes,</hi> being the Tincture of the Sun, and deriving Vigour, Influ<g ref="char:EOLhyphen"/>ence and Dominion from the ſame Light; it cauſes all Complexions to laugh or ſmile, even in the very Time of taking it; which it effects, by dilating and expanding the Gelaſtick Muſcles, firſt of all diſcovered by my ſelf. It dulcifies the whole Maſs of the Blood; maintains its Circulation, re<g ref="char:EOLhyphen"/>forms the Digeſtion of the Chylon, for<g ref="char:EOLhyphen"/>tifies the Opthalmick Nerves, clears the <hi>Officina Intelligentiae,</hi> corrects the Exorbitan<g ref="char:EOLhyphen"/>cy of the Spleen, mundifies the Hypo<g ref="char:EOLhyphen"/>gaſtrium, comforts the Sphincter, and is an excellent Remedy againſt the <hi>Proſopo-Cloroſis,</hi> or Green-Sickneſs, Sterility, and all Obſtructions whatever. They operate ſeven ſeveral Ways, in order, as Nature
+<pb n="37" facs="tcp:206298:25"/>herſelf requires; for they ſcorn to be confin'd to any particular Way of Opera<g ref="char:EOLhyphen"/>tion, <hi>viz.</hi> Hypnotically, by throwing the Party into a gentle Slumber; Hydroti<g ref="char:EOLhyphen"/>cally, by their Operative Faculty, in o<g ref="char:EOLhyphen"/>pening the <hi>Interſtitia Pororum;</hi> Carthartical<g ref="char:EOLhyphen"/>ly, by cleanſing the Bowels of all Crudi<g ref="char:EOLhyphen"/>ties and tartarous Mucilage, with which they abound; Proppyſinatically, by for<g ref="char:EOLhyphen"/>cing the Wind downward; Hydragogical<g ref="char:EOLhyphen"/>ly, by exciting Urine; Pneumatically, by exhilirating the Spirits; and laſtly, Synec<g ref="char:EOLhyphen"/>dochically, by corroborating the whole <hi>Oeconomia Animalis.</hi> There are twenty or more in every Tin-Box, ſealed with my Coat of Arms, which are, <hi>Three Glyſter Pipes erect,</hi> Gules, <hi>in a Field,</hi> Argent; my Creſt, <hi>a bloody Hand out of a Mortar,</hi> Emergent; and my Supporters, <hi>a Chymiſt and an Apothecary.</hi> This <hi>Tinctura Solaris,</hi> or moſt noble Off-ſpring of <hi>Hyperion</hi>'s Golden Influence, wipes off ab<g ref="char:EOLhyphen"/>ſterſively all thoſe tenacious, conglome<g ref="char:EOLhyphen"/>rated, ſedimental Sordes, that adhere to the Oeſophagus and Viſcera, extinguiſhes all ſupernatural Ferments and Ebulliti<g ref="char:EOLhyphen"/>ons; and in fine, annihilates all the no<g ref="char:EOLhyphen"/>ſotrophical or morbifick Ideas of the whole corporeal <hi>Compages.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi> My <hi>Panagion Outacouſticon,</hi> or auricular Reſtorative: Were it poſſible to
+<pb n="38" facs="tcp:206298:26"/>ſhew me a Man ſo deaf, that if a De<g ref="char:EOLhyphen"/>miculverin were to be let off under his Ear, he could not hear the Report, yet theſe infallible Drops, (firſt invented by the two famous Phyſician Brothers, St. <hi>Coſmus</hi> and St. <hi>Damian,</hi> call'd the <hi>Anargyri</hi> in the an<g ref="char:EOLhyphen"/>cient <hi>Greek Menologies;</hi> and ſome forty Years ago, communicated to me by <hi>Ana<g ref="char:EOLhyphen"/>ſtaſio Logotheti,</hi> a <hi>Greek</hi> Coloyr at <hi>Adrianople,</hi> when I was invited into thoſe Parts to cure Sultan <hi>Mahomet</hi> IV. of an Elephanti<g ref="char:EOLhyphen"/>aſis in his Diaphragm) he would recover his auditive Faculty, and hear as ſmartly as an old fumbling Prieſt, when a young Wench gives him account of her loſt Mai<g ref="char:EOLhyphen"/>denhead at the Confeſſional.</p>
+               <p>
+                  <hi>Fourthly,</hi> My <hi>Anodyne Spirit,</hi> excellent to eaſe Pain, when taken inwardly, and ap<g ref="char:EOLhyphen"/>plied outwardly, excellent for any Lame<g ref="char:EOLhyphen"/>neſs, Shrinking or Contraction of the Nerves; for Eyes, Deafneſs, Pain and Noiſe in the Ears; and all odontatalgick, as well as podagrical Inflammations.</p>
+               <p>
+                  <hi>Fifthly,</hi> My <hi>Antidotus Antivenerialis;</hi> which effectually cures all Gonorrheas, Carnoſities in the delinquent Part, Tumours, Phymo<g ref="char:EOLhyphen"/>ſis, Paraphymoſis, Chryſtalline, Priapiſms, Hemorrhoids, Cantillamata, Ragades, Bu<g ref="char:EOLhyphen"/>bos, Impoſthumations, Carbuncles, geni<g ref="char:EOLhyphen"/>cular Nodes, and the like, without either
+<pb n="39" facs="tcp:206298:26"/>Baths or Stoves as alſo without Mercu<g ref="char:EOLhyphen"/>ry, ſo often deſtructive to the poor Patient, with that Privacy, that the neareſt Re<g ref="char:EOLhyphen"/>lations ſhall not perceive it.</p>
+               <p>
+                  <hi>Sixthly,</hi> My <hi>pectoral Lozenges,</hi> or <hi>Balſam of Balſams,</hi> which effectually carries off all windy and tedious Coughs, ſpitting of Blood, Wheezing in the Larynx and Pthya<g ref="char:EOLhyphen"/>liſmus, let it be never ſo inveterate.</p>
+               <p>
+                  <hi>Seventhly,</hi> and <hi>laſtly,</hi> My <hi>Pulvis Vermiſu<g ref="char:EOLhyphen"/>gus,</hi> or <hi>Antevermatick Powder,</hi> brings up the Rear, ſo famous for killing and bringing away all ſorts of Worms incident to hu<g ref="char:EOLhyphen"/>man Bodies, breaking their complicated Knots in the <hi>Duodenum,</hi> and diſſolving the phlegmatick Crudities that produce Anthro<g ref="char:EOLhyphen"/>pophagous Vermin. It has brought away, by Urine, Worms as long as the <hi>May-Pole</hi> in the <hi>Strand,</hi> when it flouriſh'd in its primitive Prolixity, though, I confeſs, not altogether ſo thick. In ſhort, 'tis a ſpecifick Catholicon for the Cholick, ex<g ref="char:EOLhyphen"/>pels Winds by Eructation, or otherwiſe; accelerates Digeſtion, and creates an Ap<g ref="char:EOLhyphen"/>petite to a Miracle.</p>
+               <p>I dexterouſly couch the Cataract or Suffuſion, extirpate Wens of the greateſt Magnitude, cloſe up Hair-Lips, whether treble or quadruple; cure the Polipus up<g ref="char:EOLhyphen"/>on the Noſe, and all ſcrophulous Tumours,
+<pb n="40" facs="tcp:206298:27"/>Cancers in the Breaſt, <hi>Noli me tangeris,</hi> St. <hi>Anthony</hi>'s Fire, by my new invented <hi>Unguentum Antipyreticum,</hi> Excreſcences, or ſuperfluous Fleſh in the Mouth of the Bladder or Womb; likewiſe I take the Stone from Women or Maids without cutting.</p>
+               <p>I have Steel-Truſſes, and Inſtruments of a new Invention, together with never-failing Medicines and Methods to cure Ruptures, and knit the Peritonaeum. And here I cannot forbear to communicate an uſeful Piece of Knowledge to the World, which is, that which the learned <hi>Villipandus,</hi> in his excellent Treatiſe, <hi>De congrubilitate materiae primae cum confeſſione Auguſtana.</hi> I take a Rupture to be a Relaxation of the natural Cavities, at the bottom of the cre<g ref="char:EOLhyphen"/>maſter Muſcles. But this, <hi>en p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſant,</hi> I forge all my ſelf, nay, my very Ma<g ref="char:EOLhyphen"/>chines for ſafe and eaſy drawing Teeth and obſcure Stumps. Mrs. <hi>Littlehand,</hi> Mid<g ref="char:EOLhyphen"/>wife to the Princeſs of <hi>Phlegethon,</hi> can ſuf<g ref="char:EOLhyphen"/>ficiently inform the Women of my Helps, and what I do for the Diſruption of the Fundament and Uterus, and other ſtrange Infirmities of the Matrix, occaſioned by the bearing of Children, violent Cough<g ref="char:EOLhyphen"/>ing, heavy Work, <hi>&amp;c.</hi> which I challenge
+<pb n="41" facs="tcp:206298:27"/>any Perſon in the <hi>Acherontick</hi> Dominions to perform but my ſelf.</p>
+               <p>If any Woman be unwilling to ſpeak to me, they may have the Conveniency of ſpeaking to my Wife, who is expert in all feminine Diſtempers. She has an excellent Coſmetick Water, to carry off Freckles, Sun-burn, or Pimples; and a curious red Pomatum to plump and colour the Lips. She can make red Hair as white as a Lilly; ſhe ſhapes the Eyebrows to a Miracle; makes low Foreheads as high as you pleaſe; has a never-failing Remedy for offenſive Breaths, a famous Eſſence to correct the ill Scent of the Arm-pits, a rich Water that makes the Hair curl, a moſt delicate Paſte to ſmooth and whiten the Hands; alſo,
+<q>
+                     <l>
+                        <hi>A rare Secret that takes away all Warts,</hi>
+                     </l>
+                     <l>
+                        <hi>From the Face, Hands, Fingers, and Privy-Parts.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>Thoſe who are not able to come to me, let them ſend their Urine, eſpecially that made after Mid-night, and on ſight of it, I will tell them what their Diſtemper is, and whether curable, or no. Nay, let a Man be in never ſo perfect Health of Bo<g ref="char:EOLhyphen"/>dy, his Conſtitution never ſo vigorous and
+<pb n="42" facs="tcp:206298:28"/>athletical, if he ſhews me his Water, I can as infallibly predict what Diſtemper will firſt attack him, though perhaps it will be thirty or forty Years hence, as an A<g ref="char:EOLhyphen"/>ſtronomer by the Rules of his Science, can foretel Solar or Lunar Eclipſes the Year before they happen. I have pre<g ref="char:EOLhyphen"/>dicted miraculous Things by the Pulſe, far above any Philoſopher. By it, I not only diſcover the Circumſtances of the Body, but if the Party be a Woman, I can foretel how many Husbands and Children ſhe ſhall have; if a Tradeſman, whether his Wife will fortify his Forehead with Horns; and ſo of the reſt. This is not all, but I will engage to tell any ſerious Per<g ref="char:EOLhyphen"/>ſons what their Buſineſs is on every radical Figure, before they ſpeak one Word; what has already happened to them from their very Infancy, down to the individual Hour of their conſulting me; what their preſent Circumſtances are; what will happen to them hereafter; in what part of the Body they have Moles; what Colour and Magni<g ref="char:EOLhyphen"/>tude they are of; and laſtly, how profited, that is, whether they calminate Equinocti<g ref="char:EOLhyphen"/>ally or Horizontally upon the <hi>Meſogaſtri<g ref="char:EOLhyphen"/>um;</hi> from which Place alone, and no other, as the profound <hi>Triſmegiſtus</hi> has obſerv'd before me, in his elaborate Treatiſe <hi>De
+<pb n="43" facs="tcp:206298:28"/>erroribus Styli Gregoriani,</hi> all ſolid Conjec<g ref="char:EOLhyphen"/>tures are to be formed.</p>
+               <p>I have likewiſe attained to the green, golden, and black Dragon, known to none but Magicians and hermatick Philoſophers; I tell the Meaning of all magical Panti<g ref="char:EOLhyphen"/>cles, Sigils, Charms and Lameneſs, and have a Glaſs and Help to further Marri<g ref="char:EOLhyphen"/>age; and what is more, by my Lear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ing and great Travels, I have obtained the true and perfect Seed and Bloſſom of the <hi>Female Fern;</hi> and infinitely improved that great Traveller Major <hi>John Coke</hi>'s fo<g ref="char:EOLhyphen"/>mous Necklaces for breeding of Teeth. The Spring being already advanc'd, which is the propereſt Seaſon for preventing new, and renewing old Diſtempers, neglect not this Opportunity —</p>
+               <p>
+                  <hi>My Hours are from Nine till Twelve in the Morning, and from Two in the Afternoon till Nine at Night, every Day in the Week, except on the real</hi> Chriſtian <hi>Sabbath, called</hi> Saturday.</p>
+               <p>
+                  <hi>It may be of Uſe to keep this Advertiſement.</hi>
+               </p>
+            </div>
+            <div type="speech">
+               <pb n="44" facs="tcp:206298:29"/>
+               <head>The HARANGUE of <hi>ROBERT WILMORE.</hi>
+               </head>
+               <opener>
+                  <salute>Gentlemen and Ladies,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">B</seg>EHOLD this little Viol, which contains in its narrow Bounds, what the whole Univerſe can<g ref="char:EOLhyphen"/>not purchaſe, if ſold to its true Value: This admirable, this miraculous Elixir, drawn from the Hearts of Mandrakes, Phoenix Livers, and Tongues of Mairmaids, and diſtill'd by contracted Sun-Beams, has beſides the unknown Vir<g ref="char:EOLhyphen"/>tue of curing all Diſtempers both of Mind and Body, that Divine one of animating the Heart of Man to that Degree, that however remiſs, cold and cowardly by Nature, he ſhall become Vigorous and Brave. O ſtupid and inſenſible Man! when Honour and ſecure Renown invites you, to treat it with Neglect, even when you need but paſſive Valour to become the Heroes of the Age; receive a thou<g ref="char:EOLhyphen"/>ſand Wounds, each of which would let
+<pb n="45" facs="tcp:206298:29"/>out fleeting Life; here's that can ſnatch the parting Soul in its full Career, and bring it back to its native Manſion, baffles grim Death, and diſappoints even Fate.</p>
+               <p>
+                  <hi>Gentlemen,</hi> If any of you here preſent was at Death's Door, here's this, my Divine Elixir will give you Life again:
+<q>
+                     <l>This Will recover whole Fields of Slain,</l>
+                     <l>And all the Dead ſhall riſe and fight again.</l>
+                  </q>
+               </p>
+               <p>'Twas this that made the <hi>Roman</hi> Le<g ref="char:EOLhyphen"/>gions numerous,, and now makes <hi>France</hi> ſo formidable; and this alone may be the Occaſion of the Loſs of <hi>Germany.</hi>
+               </p>
+               <p>Come, Gentlemen, buy this <hi>Coward's Comfort,</hi> quickly buy: What Fop would be abus'd, mimick'd and ſcorn'd, for fear of Wounds that can be ſo eaſily cur'd? Who is it would bear the Inſolence and Pride of domineering great Men, proud Officers, or Magiſtrates? Or who would cringe to Stateſmen out of Fear? What Cully would be cuckol'd? What fooliſh Heir undone by cheating Gameſters? What Lord would be Lampoon'd? What Poet fear the Ma<g ref="char:EOLhyphen"/>lice of his Satyrical Brother? Or Atheiſt fear to fight for Fear of Death? Come, buy my Coward's Comfort, quickly buy.</p>
+               <pb n="46" facs="tcp:206298:30"/>
+               <p>Here, <hi>Gentlemen,</hi> is my little Paper of Powder, whoſe Value ſurmounts that of Rocks of Diamonds, and Hills of Gold: 'Twas this made <hi>Venus</hi> a Goddeſs; and gi<g ref="char:EOLhyphen"/>ven her by <hi>Apollo;</hi> from her deriv'd to <hi>Hellen,</hi> and in the Sack of <hi>Troy</hi> loſt, till recover'd by me out of ſome Ruins of <hi>Aſia.</hi>
+               </p>
+               <p>Come buy it, <hi>Ladies,</hi> you that wou'd be Fair and wear eternal Youth; and you in whom the amorous Fire remains, when all the Charms are fled: You that dreſs Young and Gay, and would be thought ſo, that Patch and Paint, to fill up ſometimes old Furrows on your Brows, and ſet your ſelves for Conqueſt, though in vain; here's that which will give you aubern Hair, white Teeth, red Lips, and Dimples on your Cheeks: Come, buy it all you that are paſt betwitching, and wou'd have hand<g ref="char:EOLhyphen"/>ſome, young, and active Lovers.</p>
+               <p>Come all you City Wives that would advance your Husbands to be Lord-Mayors, come, buy of me new Beauty: This will give it though now decay'd, as are your Shop Commodities; this will retrieve your Cuſtomers, and vend your falſe and out<g ref="char:EOLhyphen"/>of-faſhion'd Wares: Cheat, lye, proteſt, and couzen as you pleaſe, a handſome
+<pb n="47" facs="tcp:206298:30"/>Wife makes all a lawful Gain. Come, City Wives, come buy.</p>
+               <p>Here is my famous Bottle of Powder, this is the Life and Soul of Man: This is the Amorous Powder which <hi>Venus</hi> made and gave the God of Love, which made him firſt a Deity: You talk of Arrows, Bows, and killing Darts; Fables, Poetical Fictions, and no more: 'Tis this alone that wounds and fires the Heart, makes Women kind, and equals Men to Gods; 'tis this that makes your Great Lady doat on the ill-favour'd Fop; your Great Man be jilted by his little Miſtreſs; the Judge cajol'd by his Sempſtreſs, and your Poli<g ref="char:EOLhyphen"/>tician by his Comedian; your young La<g ref="char:EOLhyphen"/>dy doat on her decrepid Husband; your Chaplain on my Lady's Waiting-Woman, and the young Woman, and the Squire on the Laundry-Maid. In fine, Sirs,
+<q>
+                     <l>'Tis this that cures the Lover's Pain,</l>
+                     <l>And Celia of her cold Diſdain.</l>
+                  </q>
+               </p>
+               <p>I need ſay nothing of my Divine Baths of Reformation, nor the Wonders of the old Oracle of the Box, which re<g ref="char:EOLhyphen"/>ſolves all Queſtions which ſufficiently de<g ref="char:EOLhyphen"/>clare.</p>
+               <pb n="48" facs="tcp:206298:31"/>
+               <p>
+                  <hi>You that come to my Lodgings may have Ad<g ref="char:EOLhyphen"/>vice Gratis: My Hours are from Eight to Twelve, and from Three to Six.</hi>
+               </p>
+            </div>
+            <div type="speech">
+               <head>LOPUS<hi>'s HARANGUE at</hi> Madrid.</head>
+               <p>
+                  <seg rend="decorInit">M</seg>OST illuſtrious Dons, and egre<g ref="char:EOLhyphen"/>giouſly beautiful and Virtuous Madona's, with the reſt of my gentle Friends and Auditors: Behold your humble moſt officious Servant <hi>Lopus,</hi> arrived from the moſt ancient and ſtately City of <hi>Saragoſa,</hi> on purpoſe to make a Preſent of the wonderful Effects of his Phyſical and Chymical Arts to your fair Acceptance, in this moſt glorious and courtly Town of <hi>Madrid.</hi>
+               </p>
+               <p>I proteſt to you, <hi>Gentlemen,</hi> I and my Wife, with all my Servants, are not able to make of this precious Oil you ſee in this Glaſs, half ſo faſt as it is fetch'd a<g ref="char:EOLhyphen"/>way from my Lodgings, by Gentlemen and others of this famous Town; and
+<pb n="49" facs="tcp:206298:31"/>ſent for by many of the greateſt Dukes and Condees of this much-celebrated Na<g ref="char:EOLhyphen"/>tion, ſome of which have detained me to their private and particular Uſe a while, ſince my Arrival, by their ſplendid Li<g ref="char:EOLhyphen"/>beralities, and worthily; for what avails it your Rich Man to have his Cellars ſtuf<g ref="char:EOLhyphen"/>fed with the pureſt Grape, and his Tables furniſhed with the rareſt Variety of dainty Acetes, when his Phyſicians preſcribe him (on pain of Death) to drink nothing but Watergruel, or over-ſtew'd Herbs in a thin heartleſs Broth? O Health! the Bleſſing of the Rich! the Riches of the Poor! who can buy thee at too dear a Rate, ſince they cannot enjoy any Happineſs in this World without thee?</p>
+               <p>Be not then ſo ſparing of your Purſes, honourable Gentlemen, as to abridge the natural Courſe of your Lives; for when a humid Flux, or Catarrh, by the Muta<g ref="char:EOLhyphen"/>bility of the Air, falls from your Head into an Arm, or Shoulder, or any other Part, take you a Ducat or a Caſtilion of Gold, and apply it to the Place affect<g ref="char:EOLhyphen"/>ed, and ſee what good it will do. No, no, it is this bleſſed Unguento, this rare Ex<g ref="char:EOLhyphen"/>traction, that only hath the Power to diſ<g ref="char:EOLhyphen"/>perſe all malignant Humours, from what<g ref="char:EOLhyphen"/>ſoever
+<pb n="50" facs="tcp:206298:32"/>ill-effected Cauſes they ſhall pro<g ref="char:EOLunhyphen"/>ceed.</p>
+               <p>It has Power to fortify the moſt indi<g ref="char:EOLhyphen"/>geſt and crude Stomach in the World, though it be of one that (through extreme Weakneſs) vomits Blood, applying only a warm Napkin to the Place, after the Unction and Fricace: For the Vertigo in the Head, putting but a Drop into your Noſtrils, likewiſe behind your Ears; a moſt ſovereign and approved Remedy; the Mal Caduco, Cramps, Convulſions, Pa<g ref="char:EOLhyphen"/>ralyſies, Epilepſies, Tremor Cordis, retir'd and ſhrunk Nerves, evil Vapours of the Spleen, ſtopping of the Liver, the Stone, the Strangury, Hernia Ventoſa, Iliaca Paſ<g ref="char:EOLhyphen"/>ſio; ſtops a Dyſenteria, immediately ea<g ref="char:EOLhyphen"/>ſeth the Torſion of the ſmall Guts; and cures Melancholia Hypochondriaca, being taken and apply'd according to my prin<g ref="char:EOLhyphen"/>ted Receipt; for this is the Phyſician, this the Medicine, this counſels, this cures, this gives the Direction, this works the Effect, and, in ſum, both together may be termed an Abſtract of the Theorick and Practick in the <hi>Eſculapian</hi> Art.</p>
+               <p>The Price is but four Ryals, that is the Price; and leſs I know, in courteſy, you cannot offer me, take it or leave it; howſo<g ref="char:EOLhyphen"/>ever, both I and it are at your Service.
+<pb n="51" facs="tcp:206298:32"/>I ask you not near the Value of the Thing, for then I ſhould ask you a thou<g ref="char:EOLhyphen"/>ſand Ducats; ſo ſeveral Grandees and Grandeza's have given me: But I deſpiſe Money, only to ſhew my Affection to you, Honourable Gentlemen, and this moſt in<g ref="char:EOLhyphen"/>clyte Town. I have neglected the Meſ<g ref="char:EOLhyphen"/>ſages of divers Princes and Nobles, and directed my Journey hither, only to pre<g ref="char:EOLhyphen"/>ſent you with the Fruits of my Experi<g ref="char:EOLhyphen"/>ence and Travels.</p>
+               <p>I have here likewiſe a moſt ineſtima<g ref="char:EOLhyphen"/>ble Vegetable, which is equally to be va<g ref="char:EOLhyphen"/>lued with my Oil, of both which, if I had but Time to diſcourſe to you, the miraculous Effects, with the countleſs Ca<g ref="char:EOLhyphen"/>talogue of thoſe I have cured of the afore<g ref="char:EOLhyphen"/>ſaid, and many more Diſeaſes; the Pa<g ref="char:EOLhyphen"/>tents and Privileges of the moſt Catho<g ref="char:EOLhyphen"/>lick and Chriſtian Kings, as alſo of all the Princes and Commonwealths of <hi>Chriſ<g ref="char:EOLhyphen"/>tendom,</hi> or but the Depoſitions that have appeared on my Part, before the moſt learned College of Phyſicians, where I was authoriz'd, upon Notice taken of the admirable Virtues of my Medicaments, and my own Excellency in Matter of rare and unknown Secrets, to diſperſe them pub<g ref="char:EOLhyphen"/>lickly for the common Good; and though divers profeſſed to have as good and experi<g ref="char:EOLhyphen"/>mented
+<pb n="52" facs="tcp:206298:33"/>Receipts as my ſelf; and have aſſayed to make both of this Oil and Wa<g ref="char:EOLhyphen"/>ter, beſtowed great Coſt in Furnaces, Stills, Alembicks, continual Fires, and Preparation of Ingredients, (as indeed there goes to each of them ſix hundred ſeveral Simples at leaſt,) yet they ever loſt their Labour and Coſt, both for Want of that large Talent of Knowledge, re<g ref="char:EOLhyphen"/>quiſite to ſuch a Work. For my ſelf, I have always hunted after the moſt recon<g ref="char:EOLhyphen"/>dite Secrets; and to get them I have ſpared no Reſt or Labour, but taken in<g ref="char:EOLhyphen"/>defatigable Pains therein; inſomuch, as Gentlemen, I will undertake (by Virtue of Chymical Art,) out of the Honourable Hat that covers your Head, to extract the four Elements, that is to ſay, Fire, Air, Water, and Earth, and return you the Felt without Burn or Stain; for whilſt others have been at the <hi>Balloo,</hi> I have been at my Book, and am now paſt the crag<g ref="char:EOLhyphen"/>gy Parts of Study, and come to the flow'ry Plains of Honour and Reputation.</p>
+               <p>Here is likewiſe a Powder concealed in this Paper, of which, if I ſhould ſpeak to the Worth, five thouſand Volumes where but as one Page, that Page as a Line, that Line as a Word: So ſhort is this Pilgrimage of Man, (which ſome call Life,)
+<pb n="53" facs="tcp:206298:33"/>to the expreſſing of it; or, if I would re<g ref="char:EOLhyphen"/>flect upon the Price, why, the whole World were but as an Empire, that Empire as a Province, that Province as a Bank, that Bank as a private Purſe, to the Pur<g ref="char:EOLhyphen"/>chaſe of it: I will only tell you, it is the very Powder that made <hi>Venus</hi> a Goddeſs, (given her by <hi>Apollo,</hi>) that kept her per<g ref="char:EOLhyphen"/>petually Young, cleared her Wrinkles, firmed her Gums, filled her Skin, colour'd her Hair; from her deriv'd to <hi>Hellen,</hi> and at the Sack of <hi>Troy</hi> unfortunately loſt, till now in this our Age it was as happily recovered by a ſtudious Antiquary, out of ſome Ruins of <hi>Aſia,</hi> who ſent a Moie<g ref="char:EOLhyphen"/>ty of it to the Court of <hi>France;</hi> but much ſophiſticated; the reſt at this pre<g ref="char:EOLhyphen"/>ſent remains with me, extracted to a Quinteſcence; ſo that wherever it but tou<g ref="char:EOLhyphen"/>ches in Youth, it perpetually preſerves, in Age reſtores the Complexion, ſets your Teeth as firm as a Wall, makes them white as Ivory, that were as black as Jet; and with the Addition of a moſt wonder<g ref="char:EOLhyphen"/>ful Bath, of my own Preparation, it will tinct a grey Hair a pure Auburn, and make it grow ſo; make you caſt your old harſh Skin for one as freſh and ſmooth as <hi>Lada</hi>'s, and ſo ſupple and quicken your Joints and Nerves, as but ſeldom uſing it,
+<pb n="54" facs="tcp:206298:34"/>you ſhall ever enjoy your Juvenal Acti<g ref="char:EOLhyphen"/>vities, Guſto's, and total Abilities, to the Admiration of all that formerly knew you.</p>
+               <p>Many other rare Effects there are of this Powder and Bath, too tedious to reckon in this Place; but whoſoever has a Mind to try them, if they pleaſe to repair to me at my Lodgings, ſhall be more particularly informed; only this I ſhall add at this preſent: This Powder, has like<g ref="char:EOLhyphen"/>wiſe a wonderful Variety of Amorous Ef<g ref="char:EOLhyphen"/>fects belonging to it, which are not here to be enumerated; and for my rare Oil, though I impart to the Rich for Money, I often Cure the Poor for God's ſake.</p>
+               <p>
+                  <hi>And ſo God preſerve his moſt Catholick Majeſty.</hi>
+               </p>
+            </div>
+            <div type="speech">
+               <pb n="55" facs="tcp:206298:34"/>
+               <head>The HARANGUE of the Famous <hi>SCOTO</hi> of <hi>Mantuano.</hi>
+               </head>
+               <opener>
+                  <salute>Moſt noble Gout, and my worthy Patrons,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg>T may ſeem ſtrange, that I, your <hi>Scoto Mantuano,</hi> who was ever wont to fix my Bank in Face of the publick <hi>Piazza,</hi> near the ſhelter of the <hi>Portico,</hi> to the <hi>Procuratia,</hi> ſhould now (after eight Months Abſence from this illuſtrious City of <hi>Venice</hi>) humbly retire my ſelf into an obſcure Nook of the <hi>Piazza.</hi>
+               </p>
+               <p>Let me tell you, I am not (as your <hi>Lombard</hi> Proverb ſaith) cold on my Feet, or content to part with my Commodities at a cheaper rate, than I accuſtomed; look not for it. Nor that the calumnious Reports of that impudent Detractor, and Shame to our Profeſſion, (<hi>Aleſſandro Buttone</hi> I mean,) who gave out in publick, I was condemn'd <hi>a' Sforzato</hi> to the Galleys, for poiſoning the Cardinal <hi>Bembo's</hi> — Cook, hath at all at<g ref="char:EOLhyphen"/>tacked, much leſs dejected me. No, no, wor<g ref="char:EOLhyphen"/>thy Gentlemen, (to tell you true,) I cannot
+<pb n="56" facs="tcp:206298:35"/>endure to ſee the Rabble of theſe Ground <hi>Ciarlitani,</hi> that ſpread their Cloaks on the Pavement, as if they meant to do Feats of Activity, and then come in lamely with their mouldy Tales out of <hi>Boccacio,</hi> like ſtale <hi>Tabarine</hi> the Fabuliſt: Some of them diſcourſing their Travels, and of their te<g ref="char:EOLhyphen"/>dious Captivity in the <hi>Turks</hi> Galleys, when indeed (were the Truth known) they were the Chriſtian Galleys, where very tempe<g ref="char:EOLhyphen"/>rately they eat Bread, and drunk Water as a wholſome Penance (enjoin'd them by their Confeſſors) for baſe Pilferies.</p>
+               <p>Theſe Turdy, facy, naſty, petty, louſy, far<g ref="char:EOLhyphen"/>cical Rogues, with one poor Groat's Worth of unprepar'd <hi>Antimony,</hi> finely wrapp'd up in ſeveral <hi>Scartoccio's,</hi> are able, very well to kill their twenty a Week, and play; yet, theſe meager-ſtarv'd Spirits, who have half ſtopp'd the Organs of their Minds with ear<g ref="char:EOLhyphen"/>thy Oppilations, want not their Favourers among your ſhrivel'd, ſallad-eating <hi>Arti<g ref="char:EOLhyphen"/>zans;</hi> who are overjoy'd, that they may have their Half-perth of Phyſick, though it purge 'em into another World, it makes no matter.</p>
+               <p>Well, let 'em go: And Gentlemen, ho<g ref="char:EOLhyphen"/>nourable Gentlemen, know, that for this Time, our Bank, being thus remov'd from the Clamours of the <hi>Canaglia,</hi> ſhall be the
+<pb n="57" facs="tcp:206298:35"/>
+                  <hi>Scene</hi> of Pleaſure and Delight: For, I have nothing to ſell, little or nothing to ſell.</p>
+               <p>I proteſt, I, and my ſix Servants are not able to make of this precious Liquor, ſo faſt as it is fetch'd away from my Lodg<g ref="char:EOLhyphen"/>ing by Gentlemen of your City, Strangers of the <hi>Terrafirma,</hi> worſhipful Merchants, ay, and Senators too, who ever ſince my ar<g ref="char:EOLhyphen"/>rival, have detained me to their Uſes, by their ſplendidous Liberalities; and wor<g ref="char:EOLhyphen"/>thily: For, what avails your rich Man to have his <hi>Magazines</hi> ſtuft with <hi>Moſcadelly,</hi> or of the pureſt grape, when his Phyſicians preſcribe him (on Pain of Death) to drink nothing but Water cocted with <hi>Aniſeeds?</hi> O, health! health! the Bleſſing of the Rich! the Riches of the Poor! who can buy thee at too dear a Rate, ſince there is no en<g ref="char:EOLhyphen"/>joying this World without thee: Be not then ſo ſparing of your Purſes, honourable Gen<g ref="char:EOLhyphen"/>tlemen, as to abridge the natural Courſe of Life. —</p>
+               <p>For, when a humid Flux, or Catarrh, by the Mutability of Air, falls from your Head into an Arm or Shoulder, or any other Part, take you a Ducat, or your <hi>Cecchine</hi> of Gold, and apply to the Place affected; ſee, what good Effect it can work? No, no, 'tis this bleſſed <hi>Unguento,</hi> this rare Extraction, that hath only Power to diſperſe all malig<g ref="char:EOLhyphen"/>nant
+<pb n="58" facs="tcp:206298:36"/>Humours, that proceed, either of hot, cold, moiſt, or windy Cauſes. —</p>
+               <p>To fortify the moſt indigeſt and crude Stomach, ay, were it of one that (through extream Weakneſs) vomited Blood, apply<g ref="char:EOLhyphen"/>ing only a warm Napkin to the Place after the Unction and Fricace; for the <hi>Vertigine</hi> in the Head, putting but a Drop into your Noſtrils, likewiſe behind the Ears; a moſt ſovereign and approved Remedy: The <hi>Malcaduco,</hi> Cramps, Convulſions, Paralyſies, Epilepſies, <hi>Tremor-Cordia,</hi> retired Nerves; ill Vapours of the Spleen, Stopping of the Liver, the Stone, the Strangury, <hi>Hernia Ventoſa, Iliaca Paſſio;</hi> ſtops a <hi>Dyſenteria</hi> im<g ref="char:EOLhyphen"/>mediately; eaſeth the Torſion of the ſmall Guts; and cures <hi>Melancholia Hypocondriaca,</hi> being taken and applyed, according to my printed Receipt:
+<note place="margin">Pointing to his Bill and his Glaſs.</note> For, this is the Phyſician, this the Medicine; this Counſels, this Cures; this gives the Direction, this works the Ef<g ref="char:EOLhyphen"/>fect: And (in ſum) both together may be term'd an abſtract of the Theorick and Practick in the <hi>Aeſculapian</hi> Art. 'Twill coſt you eight Crowns. And, <hi>Zan Fritada,</hi> pri<g ref="char:EOLhyphen"/>thee ſing a Verſe <hi>extempore</hi> in Honour of it.</p>
+               <q>
+                  <pb n="59" facs="tcp:206298:36"/>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="song">
+                           <head>SONG.</head>
+                           <lg>
+                              <l>
+                                 <hi>HAD old</hi> Hippocrates <hi>or</hi> Galen,</l>
+                              <l>
+                                 <hi>(That to their Books put Med'cines all in)</hi>
+                              </l>
+                              <l>
+                                 <hi>But known this Secret, they had never</hi>
+                              </l>
+                              <l>
+                                 <hi>(Of which they will be guilty ever)</hi>
+                              </l>
+                              <l>
+                                 <hi>Been murderers of ſo much Paper,</hi>
+                              </l>
+                              <l>
+                                 <hi>Or waſted many a hurtleſs taper:</hi>
+                              </l>
+                              <l>
+                                 <hi>No</hi> Indian <hi>Drug had e're been famed,</hi>
+                              </l>
+                              <l>Tobacco, Saſſafras <hi>not named;</hi>
+                              </l>
+                              <l>
+                                 <hi>No yet, of</hi> Guacum <hi>one ſmall ſtick, Sir,</hi>
+                              </l>
+                              <l>
+                                 <hi>Nor</hi> Raymund Lullies <hi>great</hi> Elixir.</l>
+                              <l>
+                                 <hi>Nor had been known the</hi> Daniſh Gonſwart,</l>
+                              <l>
+                                 <hi>Or</hi> Paracelſus, <hi>with his long Sword.</hi>
+                              </l>
+                           </lg>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>No more. Gentlemen, if I had but Time to diſcourſe to you the miraculous Effects of this my Oil, ſirnamed <hi>Oglio del Scoto,</hi> with the countleſs Catalogue of thoſe I have cured of the aforeſaid, and many more Di<g ref="char:EOLhyphen"/>ſeaſes; the Patents and Privileges of all the Princes and Commonwealths of Chriſten<g ref="char:EOLhyphen"/>dom; or but the Depoſitions of thoſe that appear'd on my Part before the <hi>Signiory</hi> of the <hi>Sanit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> and moſt learned College of Phyſicians, where I was authorized, upon Notice taken of the admirable Virtues of my Medicaments, and mine own Excel<g ref="char:EOLhyphen"/>lency in Matter of rare and unknown Se<g ref="char:EOLhyphen"/>crets,
+<pb n="60" facs="tcp:206298:37"/>not only to diſperſe them publick<g ref="char:EOLhyphen"/>ly in this famous City, but in all the Territories that happily joy under the Go<g ref="char:EOLhyphen"/>vernment of the moſt pious and magni<g ref="char:EOLhyphen"/>ficent States of <hi>Italy.</hi> But may ſome other gallant Fellow ſay, Oh! there be divers that make Profeſſion to have as good and as experimented Receipts as yours: In<g ref="char:EOLhyphen"/>deed, very many have aſſay'd, like Apes, in Imitation of that which is really and eſſentially in me, to make of this Oil; beſtow'd great Coſt in Furnaces, Stills, A<g ref="char:EOLhyphen"/>lembicks, continual Fires, and Prepara<g ref="char:EOLhyphen"/>tion of the Ingredients, (as indeed there goes to it ſix hundred ſeveral Simples, beſides ſome Quantity of human Fat, for the Conglutination, which we buy of the Anatomiſts;)but when theſe Practitio<g ref="char:EOLhyphen"/>ners come to the laſt Decoction, blow, blow, puff, puff, and all flies in <hi>Fumo!</hi> Ha, ha, ha, poor Wretches! I rather pity their Folly and Indiſcretion, than their Loſs of Time and Money; for thoſe may be reco<g ref="char:EOLhyphen"/>vered by Induſtry; but to be a Fool born, is a Diſeaſe incurable. For myſelf, I al<g ref="char:EOLhyphen"/>ways from my Youth have endeavour'd to get the rareſt Secrets, and book them, ei<g ref="char:EOLhyphen"/>ther in Exchange, or for Money: I ſpared not Coſt nor Labour, where any Thing was worthy to be learned. And Gentle<g ref="char:EOLhyphen"/>men,
+<pb n="61" facs="tcp:206298:37"/>honourable Gentlemen, I will under<g ref="char:EOLhyphen"/>take (by Virtue of Chymical Art,) out of the Honourable Hat that covers your Head, to extract the four Elements, that is to ſay, the Fire, Air, Water, and Earth, and return you your Felt without Burn or Stain; for whilſt others have been at the <hi>Balloe,</hi> I have been at my Book, and am now paſt the craggy Parts of Stu<g ref="char:EOLhyphen"/>dy, and come to the flow'ry Plains of Ho<g ref="char:EOLhyphen"/>nour and Reputation.</p>
+               <p>But to our Price: You all know (honou<g ref="char:EOLhyphen"/>rable Gentlemen) I never valued this <hi>Ampulla,</hi> or <hi>Villa,</hi> at leſs than eight Crowns, but for this Time I am content to be de<g ref="char:EOLhyphen"/>prived of it for ſix; ſix Crowns is the Price; and leſs, in courteſy, I know you cannot offer me, take it or leave it; how<g ref="char:EOLhyphen"/>ſoever, both it and I am at your Service. I ask you not as the Value of the Thing, for then I ſhould demand of you a thouſand Crowns; ſo the Cardinals <hi>Montalto, Ferneſe,</hi> the Great Duke of <hi>Tuſcany,</hi> my Goſſip, with divers other Princes, have given me; but I deſpiſe Money: Only to ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w my Affection to you, honourable Gentlemen, and your illuſtrious State here, I have neglected the Meſſages of theſe Princes; mine own Offices fram'd my Journey hither, only to preſent you with the Fruits of
+<pb n="62" facs="tcp:206298:38"/>my Travels. Tune your Voices once more to the Touch of your Inſtruments, and give the honourable Aſſembly ſome de<g ref="char:EOLhyphen"/>lightful Recreations.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="song">
+                           <head>SONG.</head>
+                           <lg>
+                              <l>
+                                 <hi>YOU that would laſt long, liſt to my Song,</hi>
+                              </l>
+                              <l>
+                                 <hi>Make no more Coil, but buy of this Oil,</hi>
+                              </l>
+                              <l>
+                                 <hi>Would you be ever fair and young,</hi>
+                              </l>
+                              <l>
+                                 <hi>Stout of Teeth, and ſtrong of Tongue;</hi>
+                              </l>
+                              <l>
+                                 <hi>Tart of Palate, quick of Ear;</hi>
+                              </l>
+                              <l>
+                                 <hi>Sharp of Sight, of Neſtril clear;</hi>
+                              </l>
+                              <l>
+                                 <hi>Moiſt of Hand, and light of Foot;</hi>
+                              </l>
+                              <l>
+                                 <hi>(Or I will come nearer to't,)</hi>
+                              </l>
+                              <l>
+                                 <hi>Would you live free from all Diſeaſes,</hi>
+                              </l>
+                              <l>
+                                 <hi>Do the Act your Miſtreſs pleaſes;</hi>
+                              </l>
+                              <l>
+                                 <hi>Yea fright all Aches from your Bones;</hi>
+                              </l>
+                              <l>
+                                 <hi>Here's a Med'cine for the Nones.</hi>
+                              </l>
+                           </lg>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Well, I am in a Humour (at this Time) to make a Preſent of the ſmall Quantity my Coffer contains; to the Rich in cour<g ref="char:EOLhyphen"/>tefy, and to the Poor for God's ſake. Where<g ref="char:EOLhyphen"/>fore now mark; I ask'd you ſix Crowns; and ſix Crowns at other Times you have paid me: You ſhall not give me ſix Crowns, nor five, nor four, nor three, nor two, nor one, nor half a Ducat, no, nor a <hi>Muccinigo;</hi> Sixpence it will coſt you, or ſix hundred Pound: — Expect no lower Price; for
+<pb n="63" facs="tcp:206298:38"/>by the Banner of my Front, I will not bate a <hi>Bagatine;</hi> that I will have only as a Pledge of your Loves, to carry ſome<g ref="char:EOLhyphen"/>thing from amongſt you, to ſhew I am not contemn'd by you. Therefore now toſs your Handkerchiefs chearfully, chearfully; and be advertized, that the firſt heroick Spirit that deigns to grace me with a Hand<g ref="char:EOLhyphen"/>kerchief, I will give it a little Remem<g ref="char:EOLhyphen"/>brance of ſomething beſide, ſhall pleaſe it better than if I had preſented it with a double Piſtolet.</p>
+               <p>Lady, I kiſs your Bounty;
+<note place="margin">Celia <hi>at the Win<g ref="char:EOLhyphen"/>dow throws down her Handker<g ref="char:EOLhyphen"/>chief.</hi>
+                  </note> and for this timely Grace you have done your poor <hi>Scoto</hi> of <hi>Mantua,</hi> I will return you over and above, my Oil, a Secret of that high and ineſtimable Nature, ſhall make you for ever enamour'd on that Minute, wherein your Eye firſt deſcended on ſo mean (yet not al<g ref="char:EOLhyphen"/>together to be deſpiſed) an Object. Here is a Powder concealed in this Paper, of which, if I ſhould ſpeak to the Worth, nine thouſand Volumes where but as one Page, that Page as a Line, that Line as a Word: So ſhort is this Pilgri<g ref="char:EOLhyphen"/>mage of Man, (which ſome call Life,) to the expreſſing of it: Would I reflect upon the Price, why, the whole World were but as an Empire, that Empire as a Pro<g ref="char:EOLhyphen"/>vince, that Province as a Bank, that
+<pb n="64" facs="tcp:206298:39" rendition="simple:additions"/>as a private Purſe, to the Purchaſe of it: I will only tell you, it is the Powder that made <hi>Venus</hi> a Goddeſs, (given her by <hi>Apol<g ref="char:EOLhyphen"/>lo,</hi>) that kept her perpetually Young, clear<g ref="char:EOLhyphen"/>ed her Wrinkles, firmed her Gums, filled her Skin, colour'd her Hair; from her de<g ref="char:EOLhyphen"/>riv'd to <hi>Hellen,</hi> and at the Sack of <hi>Troy</hi> (unfortunately) loſt, till now in this our Age it was as happily recovered by a ſtudious Antiquary out of ſome Ruins of <hi>Aſia,</hi> who ſent a Moiety of it to the Court of <hi>France,</hi> (but much ſophiſticated,) wherewith the Ladies there now colour their Hair; the reſt (at this preſent) re<g ref="char:EOLhyphen"/>mains with me, extracted to a Quin<g ref="char:EOLhyphen"/>teſcence; ſo that wherever it but touches in Youth, it perpetually preſerves; in Age reſtores the Complexion, ſeats your Teeth, did they dance like virginal Jacks, firm as a Wall, makes them white as Ivory that were black as —</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:206298:39"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
